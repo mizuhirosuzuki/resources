@@ -22,3 +22,14 @@
 - [Stata Visual Overview](https://www.stata.com/support/faqs/graphics/gph/stata-graphs/)
 - [Stata Visual Library (with a focus on impact evaluation) by World Bank](https://worldbank.github.io/Stata-IE-Visual-Library/)
 
+### Julia
+
+- [Plots - visualization package](http://docs.juliaplots.org/latest/)
+
+### Python
+
+- [The Python Graph Gallery](https://python-graph-gallery.com/matplotlib/)
+- [Graph gallery by matplotlib](https://matplotlib.org/gallery.html)
+- [matplotlib-gallery by rasbt](https://github.com/rasbt/matplotlib-gallery)
+- [Matplotlib Style Gallery](https://tonysyu.github.io/raw_content/matplotlib-style-gallery/gallery.html)
+
