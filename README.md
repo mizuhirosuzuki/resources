@@ -5,7 +5,7 @@
 
 ### R
 - [The R Graph Gallery](https://www.r-graph-gallery.com/)
-- [Data Visualization with R](Data Visualization with R)
+- [Data Visualization with R](https://rkabacoff.github.io/datavis/)
 - [Data visualisation chapter in "R for Data Science"](https://r4ds.had.co.nz/data-visualisation.html)
 - [The viridis color palettes](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html) ("Use the color scales in this package to make plots that are pretty, better represent your data, easier to read by those with colorblindness, and print well in grey scale.")
 
