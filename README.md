@@ -4,7 +4,7 @@
 - [Data visualization guide by Google](https://material.io/design/communication/data-visualization.html#principles)
 - [An Economist's Guide to Visualizing Data](https://www.aeaweb.org/articles?id=10.1257/jep.28.1.209)
 - [Data Visualization Catalog in PolicyViz](https://policyviz.com/books/better-data-visualizations/policyviz-data-visualization-catalog/)
-- [Perceptual Edge](http://www.perceptualedge.com/) (I like the page "Examples" where you can find examples of bad figure and explanations of how to make them look better)
+- [Perceptual Edge](http://www.perceptualedge.com/) (I like the page "Examples" where you can find examples of bad figures and explanations of how to make them look better)
 - [Eager Eyes](https://eagereyes.org/)
 - [Information is Beautiful](https://informationisbeautiful.net/)
 - [Module 11: Intro to Machine Learning and Data Visualization in edX "Data Analysis for Social Scientists"](https://www.edx.org/course/data-analysis-for-social-scientists)
