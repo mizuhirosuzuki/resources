@@ -133,7 +133,7 @@
 - ["Best research-related advice I've recieved" by John Holbein (Twitter thread)](https://twitter.com/JohnHolbein1/status/923269279411310593)
 
 ### Writing
-- [How to write and economics paper](https://twitter.com/DaveEvansPhD/status/953615260392583168)
+- [How to write an economics paper](https://twitter.com/DaveEvansPhD/status/953615260392583168)
 - [How to survive in the publishing game? Tips for young economists](https://twitter.com/EAYEconomists/status/904987846670417920)
 - [CALTECH RULES FOR WRITING PAPERS: HOW TO STRUCTURE YOUR PAPER AND WRITE AN INTRODUCTION](https://web.stanford.edu/group/mcnollgast/cgi-bin/wordpress/wp-content/uploads/2013/10/CALTECH.RUL_..pdf)
 - [Ph.D. Thesis Research: Where do I Start?](http://www.columbia.edu/~drd28/Thesis%20Research.pdf)
