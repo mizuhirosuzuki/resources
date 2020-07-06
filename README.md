@@ -48,6 +48,7 @@
   - [An interview with Jonathan Schwabish](https://www.aeaweb.org/research/data-visualization-for-economists-jonathan-schwabish)
 - [Data Visualization Catalog in PolicyViz](https://policyviz.com/books/better-data-visualizations/policyviz-data-visualization-catalog/)
 - [Perceptual Edge](http://www.perceptualedge.com/) (I like the page "Examples" where you can find examples of bad figures and explanations of how to make them look better)
+- [Data to Viz](https://www.data-to-viz.com/)
 - [Eager Eyes](https://eagereyes.org/)
 - [Information is Beautiful](https://informationisbeautiful.net/)
 - [Module 11: Intro to Machine Learning and Data Visualization in edX "Data Analysis for Social Scientists"](https://www.edx.org/course/data-analysis-for-social-scientists)
@@ -93,11 +94,12 @@
 
 ### Python
 
-- [The Python Graph Gallery](https://python-graph-gallery.com/matplotlib/)
+- The Python Graph Gallery ([matplotlib](https://python-graph-gallery.com/matplotlib/) and [seaborn](https://python-graph-gallery.com/category/seaborn/))
 - [Graph gallery by matplotlib](https://matplotlib.org/gallery.html)
 - [matplotlib-gallery by rasbt](https://github.com/rasbt/matplotlib-gallery)
 - [Matplotlib Style Gallery](https://tonysyu.github.io/raw_content/matplotlib-style-gallery/gallery.html)
 - [Plots for Intro Micro with matplotlib](https://github.com/yyuta0001/Plotting_Intro_Micro_Econ)
+- [Example gallery of seaborn](https://seaborn.pydata.org/examples/index.html)
 
 ## Kids
 
