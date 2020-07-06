@@ -236,7 +236,7 @@
 ### Python
 - [econtools for econometrics and data manipulation](http://www.danielmsullivan.com/econtools/)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- [https://automatetheboringstuff.com/](https://automatetheboringstuff.com/)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/thinkpython2.pdf) (pdf)
 - [A list of numpy resources by Navigating ML](https://michhar.github.io/navigating-ml/python/numpy/?utm_content=buffer0f100&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
