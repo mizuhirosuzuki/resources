@@ -58,6 +58,7 @@
 - [Geospatial Data Visualization Tool by kepler.gl](https://kepler.gl/)
 - [Remove to Improve (the data-ink ratio)](https://images.squarespace-cdn.com/content/56713bf4dc5cb41142f28d1f/1450306653111-70K5IT30R69NWPDIE1ZJ/data-ink.gif?content-type=image%2Fgif)
 - [Data Visualization: A practical introduction](https://socviz.co/index.html#preface)
+- [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
 
 ### R
 - [The R Graph Gallery](https://www.r-graph-gallery.com/)
