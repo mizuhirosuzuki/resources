@@ -275,6 +275,12 @@
 ### Others
 - [Computational Mathematics with SageMath](http://sagebook.gforge.inria.fr/english.html)
 
+## Geospatial analysis
+
+- [Earth Lab](https://www.earthdatascience.org/)
+- [Causal Inference with Spatial Data: ArcGIS 10 for Economics Research by Masayuki Kudamatsu](https://sites.google.com/site/mkudamatsu/gis)
+- [R as GIS for Economists by Taro Mieno](https://tmieno2.github.io/R-as-GIS-for-Economists/)
+
 ## Machine Learning
 
 - [Caption this, with TensorFlow: How to build and train an image caption generator using a TensorFlow notebook.](https://www.oreilly.com/content/caption-this-with-tensorflow/?utm_content=buffer6f116&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
