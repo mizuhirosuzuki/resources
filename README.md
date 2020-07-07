@@ -74,7 +74,7 @@
 - [Superheat](https://rlbarter.github.io/superheat/index.html): "The superheat package was developed to produce customizable and extendable heatmaps which act as a tool for the visual exploration of complex datasets."
 - [Some econ figures with ggplot2 by Andrew Heiss](https://twitter.com/andrewheiss/status/1005183276527448064)
 
-#### Color Palettes in ggplot2 (most of the color palettes are available in [paletteer](https://github.com/EmilHvitfeldt/paletteer))
+#### Color Palettes in ggplot2 (most of the color palettes are available through [paletteer](https://github.com/EmilHvitfeldt/paletteer))
 - [efg’s R Notes: RColorBrewer Package](https://earlglynn.github.io/RNotes/package/RColorBrewer/index.html)
 - [jcolor](https://cran.r-project.org/web/packages/jcolors/vignettes/using_the_jcolors_package.html)
 - [viridis](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html) ("Use the color scales in this package to make plots that are pretty, better represent your data, easier to read by those with colorblindness, and print well in grey scale.")
