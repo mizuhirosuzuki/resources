@@ -58,6 +58,9 @@
 - [Data visualization course by Andrew Heiss](https://datavizf18.classes.andrewheiss.com/schedule/)
 - [Geospatial Data Visualization Tool by kepler.gl](https://kepler.gl/)
 - [Remove to Improve (the data-ink ratio)](https://images.squarespace-cdn.com/content/56713bf4dc5cb41142f28d1f/1450306653111-70K5IT30R69NWPDIE1ZJ/data-ink.gif?content-type=image%2Fgif)
+- [Data visualization by The Economist](https://medium.economist.com/tagged/data-visualization) (["Mistakes, we've drawn a few"](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368) is one of my favorites)
+
+#### Textbooks
 - [Data Visualization: A practical introduction](https://socviz.co/index.html#preface)
 - [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
 
