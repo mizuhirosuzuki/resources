@@ -65,17 +65,20 @@
 - [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
 
 ### R
+
+#### Galleries / Examples
 - [The R Graph Gallery](https://www.r-graph-gallery.com/)
-- [Data Visualization with R](https://rkabacoff.github.io/datavis/)
-- [Data visualisation chapter in "R for Data Science"](https://r4ds.had.co.nz/data-visualisation.html)
 - [ggplot2 extensions - gallery](https://exts.ggplot2.tidyverse.org/gallery/)
 - [Tutorials in Flowing Data](https://flowingdata.com/category/tutorials/)
-- [ggplot2 Cheat Sheet](https://rstudio.com/wp-content/uploads/2015/12/ggplot2-cheatsheet-2.0.pdf)
-- [circlize for circular visualization](https://cran.r-project.org/web/packages/circlize/index.html)
-- [xkcd](http://xkcd.r-forge.r-project.org/): "This package tries to give a satisfactory answer to the question How can we make xkcd style graphs in R?."
-- [magick: Advanced Graphics and Image-Processing in R](https://cran.r-project.org/web/packages/magick/index.html)
-- [Superheat](https://rlbarter.github.io/superheat/index.html): "The superheat package was developed to produce customizable and extendable heatmaps which act as a tool for the visual exploration of complex datasets."
 - [Some econ figures with ggplot2 by Andrew Heiss](https://twitter.com/andrewheiss/status/1005183276527448064)
+- [ggplot2 Cheat Sheet](https://rstudio.com/wp-content/uploads/2015/12/ggplot2-cheatsheet-2.0.pdf)
+
+#### Textbooks
+- [Graphical Data Analysis with R](http://www.gradaanwr.net/)
+- [Cookbook for R: Graphs](http://www.cookbook-r.com/Graphs/)
+- [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
+- [Data Visualization with R](https://rkabacoff.github.io/datavis/)
+- [Data visualisation chapter in "R for Data Science"](https://r4ds.had.co.nz/data-visualisation.html)
 
 #### Color Palettes in ggplot2 (available color pallets are found [here](https://github.com/EmilHvitfeldt/r-color-palettes) and most of the color palettes are available through [paletteer](https://github.com/EmilHvitfeldt/paletteer))
 - [efg’s R Notes: RColorBrewer Package](https://earlglynn.github.io/RNotes/package/RColorBrewer/index.html)
@@ -83,6 +86,12 @@
 - [viridis](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html) ("Use the color scales in this package to make plots that are pretty, better represent your data, easier to read by those with colorblindness, and print well in grey scale.")
 - [wesanderson](https://github.com/karthik/wesanderson)
 - [ochRe](https://github.com/ropenscilabs/ochRe)
+
+#### Other visualization packages
+- [xkcd](http://xkcd.r-forge.r-project.org/): "This package tries to give a satisfactory answer to the question How can we make xkcd style graphs in R?."
+- [magick: Advanced Graphics and Image-Processing in R](https://cran.r-project.org/web/packages/magick/index.html)
+- [Superheat](https://rlbarter.github.io/superheat/index.html): "The superheat package was developed to produce customizable and extendable heatmaps which act as a tool for the visual exploration of complex datasets."
+- [circlize for circular visualization](https://cran.r-project.org/web/packages/circlize/index.html)
 
 ### Stata
 - [Stata Visual Overview](https://www.stata.com/support/faqs/graphics/gph/stata-graphs/)
