@@ -1,4 +1,4 @@
-## (Probably much better) resources by others
+## (Probably much better) Resources by others
 - [Resources by Jennifer Doleac](http://jenniferdoleac.com/resources/)
 - [Resources by Ryan Edwards](http://www.ryanbedwards.com/resources)
 - [Tips 4 Economists by Masayuki Kudamatsu](https://sites.google.com/site/mkudamatsu/tips4economists)
@@ -74,7 +74,7 @@
 - [Superheat](https://rlbarter.github.io/superheat/index.html): "The superheat package was developed to produce customizable and extendable heatmaps which act as a tool for the visual exploration of complex datasets."
 - [Some econ figures with ggplot2 by Andrew Heiss](https://twitter.com/andrewheiss/status/1005183276527448064)
 
-#### Color Palettes in ggplot2
+#### Color Palettes in ggplot2 (most of the color palettes are available in [paletteer](https://github.com/EmilHvitfeldt/paletteer))
 - [efg’s R Notes: RColorBrewer Package](https://earlglynn.github.io/RNotes/package/RColorBrewer/index.html)
 - [jcolor](https://cran.r-project.org/web/packages/jcolors/vignettes/using_the_jcolors_package.html)
 - [viridis](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html) ("Use the color scales in this package to make plots that are pretty, better represent your data, easier to read by those with colorblindness, and print well in grey scale.")
@@ -302,7 +302,6 @@
 ## Other Random (but Fun) Stuff
 
 ### Softwares
-- [Semantic Scale Network](https://rosenbusch.shinyapps.io/semantic_net/): "The Semantic Scale Network helps researchers and reviewers in psychological science to detect semantically related scales."
 - [The Sankofa Game](https://sankofagame.org/): "A game about the stories, lives, and cultures of the Akan people in coastal Ghana during the nineteenth century."
 - [Quiver: The Programmer's Notebook](http://happenapps.com/#quiver)
 - [LINNÉ LENS - Scannable AI encyclopedia](https://lens.linne.ai/en/)
@@ -310,6 +309,7 @@
 - [Table Tool](https://github.com/jakob/TableTool): "A simple CSV editor for OS X"
 
 ### Fun websites
+- [Semantic Scale Network](https://rosenbusch.shinyapps.io/semantic_net/): "The Semantic Scale Network helps researchers and reviewers in psychological science to detect semantically related scales."
 - [Elemental haiku](https://vis.sciencemag.org/chemhaiku/)
 - [Data to Art](https://www.data-to-art.com/): "Data to Art is a project made to promote art made from Data."
 - [Matrix Multiplication](http://matrixmultiplication.xyz/?utm_content=bufferc4822&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
