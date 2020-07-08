@@ -8,6 +8,7 @@
 - [Rによるデータクリーニング実践――政府統計からのグラフ作成を例として 概要](https://id.fnshr.info/2018/04/23/r-data-cleaning-school/)
 - [みんなのRcpp](https://teuder.github.io/rcpp4everyone_ja/)
 - [Rで計量経済の回帰分析やるならestimatrパッケージが良さそう。](https://keita43a.hatenablog.com/entry/2019/04/17/232548)
+- [purrrとbroomで複数の回帰モデルを効率的に管理する](https://dropout009.hatenablog.com/entry/2019/01/02/145038)
 
 ### Julia
 - [Julia高速チュートリアル](https://github.com/bicycle1885/Julia-Tutorial)
