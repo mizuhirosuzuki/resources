@@ -349,7 +349,7 @@
 - [7 Apps To Make Summer Travel Easier](https://www.youtube.com/watch?v=EfRioLYy3ZY)
 - [7 ways to make your Google Scholar Profile better](https://blog.impactstory.org/make-google-scholar-better/)
 - [Mount Your Google Drive on Linux with google-drive-ocamlfuse](https://www.omgubuntu.co.uk/2017/04/mount-google-drive-ocamlfuse-linux)
-- [Best sushi places in Tokyo by Kensuke Teshima](https://twitter.com/tetteresearch/status/924344536565985281/photo/1)
+- [Good sushi places in Tokyo by Kensuke Teshima](https://twitter.com/tetteresearch/status/924344536565985281/photo/1)
 - [Academic Phrasebank @ Manchester](http://www.phrasebank.manchester.ac.uk/)
 - [12 Ways to Get Smarter in One Infographic](https://www.visualcapitalist.com/12-ways-smarter-mental-models/?utm_content=buffer3ee29&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [Sci-Hub-Fy](https://github.com/allanino/sci-hub-fy): "Chrome extension that passes URLs to Sci-Hub, allowing free access to scientific articles."
