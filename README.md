@@ -214,6 +214,12 @@
 
 ### R
 
+#### Textbooks
+- [Advanced R](http://adv-r.had.co.nz/)
+- [R packages](http://r-pkgs.had.co.nz/)
+- [R for Data Science](https://r4ds.had.co.nz/)
+- [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
+
 #### Useful packages
 - [crosswalkr: Rename and Encode Data Frames Using External Crosswalk Files](https://cran.r-project.org/web/packages/crosswalkr/index.html)
 - [panelView: visualizing panel data with dichotomous treatments](http://yiqingxu.org/software/panelView/panelView.html)
@@ -234,7 +240,6 @@
 - [Word embeddings: example by Pablo Barbera](http://pablobarbera.com/ECPR-SC105/code/16-word-embeddings.html)
 - [Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R/)
 - [Using R — Working with Geospatial Data (and ggplot2)](http://mazamascience.com/WorkingWithData/?p=1494)
-- [R as GIS for Economists](https://tmieno2.github.io/R-as-GIS-for-Economists/)
 - [R Programming for Data Science](https://leanpub.com/rprogramming)
 - [10+2 Data Science Methods that Every Data Scientist Should Know in 2016](https://tjo-en.hatenablog.com/entry/2016/04/18/190000)
 - [R packages for biological data](https://sites.google.com/site/drfarine/r-packages)
