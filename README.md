@@ -138,13 +138,14 @@
 - [Pre-Grad School Advice for Agricultural and Applied Economics by Marc Bellemare](http://marcfbellemare.com/wordpress/12598)
 - [Advice for prospective Ph.D. students by Cyrus Samii](https://cyrussamii.com/?page_id=2121)
 
-### Advice for PhD students
+### Advice for PhD students (or some others)
 - [Advice on the Publishing Process by Imran Rasul](https://www.ucl.ac.uk/~uctpimr/PublishingSlides.pdf)
 - [What is your most important advice for a new PhD student? (Twitter thread)](https://twitter.com/dynarski/status/895690052616978432)
 - [Collection for new PhD students by Claes Bäckman](https://sites.google.com/view/claesbackman/tips-for-phd-students)
 - [How to survive your first year of graduate school in economics by Matthew Pearson](https://law.vanderbilt.edu/phd/How_to_Survive_1st_Year.pdf)
 - [Stress management for PhD students](https://twitter.com/DinaPomeranz/status/968254621713141761/photo/1)
 - ["Best research-related advice I've recieved" by John Holbein (Twitter thread)](https://twitter.com/JohnHolbein1/status/923269279411310593)
+- [Reflections on Grad School in Economics by Nick Hagerty](https://github.com/hagertynw/grad-school-reflections/blob/master/grad_school_reflections.pdf)
 
 ### Writing
 - [How to write an economics paper](https://twitter.com/DaveEvansPhD/status/953615260392583168)
