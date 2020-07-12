@@ -252,6 +252,7 @@
 - [Create Awesome LaTeX Table with knitr::kable and kableExtra](https://haozhu233.github.io/kableExtra/awesome_table_in_pdf.pdf)
 
 ### Python
+- [Style Guide for Python](https://www.python.org/dev/peps/pep-0008/)
 - [econtools for econometrics and data manipulation](http://www.danielmsullivan.com/econtools/)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
@@ -301,6 +302,7 @@
 - [EconML: A Python Package for ML-Based Heterogeneous Treatment Effects Estimation](https://github.com/Microsoft/EconML)
 - [Josh Tobin - Troubleshooting Deep Neural Networks](https://www.youtube.com/watch?v=XtCNNwDi9xg)
 - [NLP 100 Exercise](https://nlp100.github.io/en/)
+- [Machine Learning examples by Development Seed](https://medium.com/devseed/machinelearning/home)
 
 ## Syllabuses / Lectures
 
