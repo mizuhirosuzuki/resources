@@ -123,6 +123,7 @@
 ### Development Economics
 - [Common myths about development and development economics (Twitter thread)](https://twitter.com/rglenner/status/1040916323977625601)
 - [Teaching Development Economics](https://teaching.devecon.org/): "This website is a collection of teaching material on Development Economics, written by members of ThReD."
+- [Development Meets Organizational Economics](https://pedl.cepr.org/content/development-meets-organizational-economics)
 
 ### Presentation
 - [How to Give an Applied Micro Talk by Jesse Shapiro](https://www.brown.edu/Research/Shapiro/pdfs/applied_micro_slides.pdf?utm_content=buffer8939b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
