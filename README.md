@@ -302,8 +302,20 @@
 - [AI in Society: 2. Algorithmic Fairness](https://kojinoshiba.com/fairness/)
 - [EconML: A Python Package for ML-Based Heterogeneous Treatment Effects Estimation](https://github.com/Microsoft/EconML)
 - [Josh Tobin - Troubleshooting Deep Neural Networks](https://www.youtube.com/watch?v=XtCNNwDi9xg)
-- [NLP 100 Exercise](https://nlp100.github.io/en/)
+
 - [Machine Learning examples by Development Seed](https://medium.com/devseed/machinelearning/home)
+
+### Natural Language Processing (NLP)
+
+#### General
+- [NLP 100 Exercise](https://nlp100.github.io/en/)
+
+#### Sentiment analysis
+- [Sentiment analysis algorithms and applications: A survey](https://www.sciencedirect.com/science/article/pii/S2090447914000550)
+- [AFINN](https://github.com/fnielsen/afinn): "AFINN sentiment analysis in Python: Wordlist-based approach for sentiment analysis."
+- [SentiWordNet](https://github.com/aesuli/sentiwordnet)
+- [Hedonometeer](http://hedonometer.org/about.html): Happiness measure of words (with dictionaries for some of non-English languages)
+- [SenticNet](https://sentic.net/)
 
 ## Syllabuses / Lectures
 
