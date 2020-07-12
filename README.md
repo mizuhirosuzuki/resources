@@ -316,6 +316,7 @@
 - [SentiWordNet](https://github.com/aesuli/sentiwordnet)
 - [Hedonometeer](http://hedonometer.org/about.html): Happiness measure of words (with dictionaries for some of non-English languages)
 - [SenticNet](https://sentic.net/)
+- [Google Cloud Natural Language: Analyzing Sentiment](https://cloud.google.com/natural-language/docs/analyzing-sentiment#language-sentiment-string-python)
 
 ## Syllabuses / Lectures
 
