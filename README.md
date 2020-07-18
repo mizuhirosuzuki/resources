@@ -260,6 +260,10 @@
 - [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/thinkpython2.pdf) (pdf)
 - [A list of numpy resources by Navigating ML](https://michhar.github.io/navigating-ml/python/numpy/?utm_content=buffer0f100&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
+### Julia
+- [Parallel Computing and Scientific Machine Learning](https://github.com/mitmath/18337): The lecture note of [Optimizing Serial Code](https://mitmath.github.io/18337/lecture2/optimizing) is a must-read!
+- [ScPo-CompEcon CoursePack](https://scpo-compecon.github.io/CoursePack/)
+
 ### LaTeX
 - [TeXample.net](http://www.texample.net/)
 - [Tips + Tricks with Beamer for Economists](https://github.com/paulgp/beamer-tips/blob/master/slides.pdf) (source code [here](https://github.com/paulgp/beamer-tips))
