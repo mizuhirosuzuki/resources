@@ -147,6 +147,7 @@
 - [Stress management for PhD students](https://twitter.com/DinaPomeranz/status/968254621713141761/photo/1)
 - ["Best research-related advice I've recieved" by John Holbein (Twitter thread)](https://twitter.com/JohnHolbein1/status/923269279411310593)
 - [Reflections on Grad School in Economics by Nick Hagerty](https://github.com/hagertynw/grad-school-reflections/blob/master/grad_school_reflections.pdf)
+- [The Tenure Process at Research Universities by Petra Todd](http://athena.sas.upenn.edu/petra/csweparticle.pdf)
 
 ### Writing
 - [How to write an economics paper](https://twitter.com/DaveEvansPhD/status/953615260392583168)
