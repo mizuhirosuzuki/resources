@@ -389,4 +389,4 @@
 - [Malaria's lifecycle](https://www.cdc.gov/malaria/about/biology/index.html)
 - [Using Countdown Clock Data to Understand the New York City Subway](https://toddwschneider.com/posts/nyc-subway-data-analysis/)
 - [Common Cancer Myths and Misconceptions](https://www.cancer.gov/about-cancer/causes-prevention/risk/myths?platform=hootsuite)
-
+- [Tax policy for developing countries by IMF](https://www.imf.org/external/pubs/ft/issues/issues27/)
