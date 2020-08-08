@@ -238,6 +238,7 @@
 - [texreg](https://cran.r-project.org/web/packages/texreg/texreg.pdf): "Converts coefficients, standard errors, significance stars, and goodness-of-fit statistics of statistical models into LaTeX tables or HTML tables/MS Word documents or to nicely formatted screen output for the R console for easy model comparison"
 - [tidygraph](https://www.data-imaginist.com/2017/introducing-tidygraph/): "R tidygraph network graph"
 - [dqrng](https://cran.r-project.org/web/packages/dqrng/vignettes/dqrng.html): "Fast Pseudo Random Number Generators for R"
+- Rtweet: Twitter API in R, nice introduction is [here](https://www.earthdatascience.org/courses/earth-analytics/get-data-using-apis/use-twitter-api-r/)
 
 #### Other tips
 - [robust SEs on a ggplot2 (with estimatr)](https://twitter.com/aecoppock/status/990711827062575104)
