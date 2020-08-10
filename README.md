@@ -32,6 +32,7 @@
 - [Sex ratios and missing girls in 19c Europe](https://nadaesgratis.es/fran-beltran/sex-ratios-y-ninas-desaparecidas-en-europa)
 - [Firm-level Climate Change Exposure](https://osf.io/fd6jq/)
 - [Giving in the Netherlands Panel Survey](https://osf.io/4unf9/)
+- [Brazilian Municipal Identifiers (and other cool Brazilian data) by Peter Johannessen](http://www.peterjohannessen.com/data)
 
 ### Not-so-econ data
 
