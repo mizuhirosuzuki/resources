@@ -149,6 +149,7 @@
 - ["Best research-related advice I've recieved" by John Holbein (Twitter thread)](https://twitter.com/JohnHolbein1/status/923269279411310593)
 - [Reflections on Grad School in Economics by Nick Hagerty](https://github.com/hagertynw/grad-school-reflections/blob/master/grad_school_reflections.pdf)
 - [The Tenure Process at Research Universities by Petra Todd](http://athena.sas.upenn.edu/petra/csweparticle.pdf)
+- [How to generate ideas by Matt Lowe](https://twitter.com/hmmlowe/status/1281317062149718016)
 
 ### Writing
 - [How to write an economics paper](https://twitter.com/DaveEvansPhD/status/953615260392583168)
