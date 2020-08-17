@@ -257,6 +257,7 @@
 - [Chapter 20: Integrating with C++ using Rcpp and RcppEigen by Kohei Kawaguchi](https://kohei-kawaguchi.github.io/EmpiricalIO/rcpp.html)
 - [Create Awesome LaTeX Table with knitr::kable and kableExtra](https://haozhu233.github.io/kableExtra/awesome_table_in_pdf.pdf)
 - [Rcpp for everyone](https://teuder.github.io/rcpp4everyone_en/)
+- [Intro to Network Analysis in R](https://dshizuka.github.io/networkanalysis/index.html)
 
 ### Python
 - [Style Guide for Python](https://www.python.org/dev/peps/pep-0008/)
