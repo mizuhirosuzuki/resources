@@ -63,7 +63,7 @@
 
 #### Textbooks
 - [Data Visualization: A practical introduction](https://socviz.co/index.html#preface)
-- [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
+- [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 
 ### R
 
