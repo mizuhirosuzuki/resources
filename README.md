@@ -243,6 +243,7 @@
 - Rtweet: Twitter API in R, nice introduction is [here](https://www.earthdatascience.org/courses/earth-analytics/get-data-using-apis/use-twitter-api-r/)
 
 #### Other tips
+- [stargazer cheatsheet](https://www.jakeruss.com/cheatsheets/stargazer/)
 - [robust SEs on a ggplot2 (with estimatr)](https://twitter.com/aecoppock/status/990711827062575104)
 - [Word embeddings: example by Pablo Barbera](http://pablobarbera.com/ECPR-SC105/code/16-word-embeddings.html)
 - [Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R/)
