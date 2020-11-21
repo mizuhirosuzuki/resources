@@ -241,6 +241,7 @@
 - [tidygraph](https://www.data-imaginist.com/2017/introducing-tidygraph/): "R tidygraph network graph"
 - [dqrng](https://cran.r-project.org/web/packages/dqrng/vignettes/dqrng.html): "Fast Pseudo Random Number Generators for R"
 - Rtweet: Twitter API in R, nice introduction is [here](https://www.earthdatascience.org/courses/earth-analytics/get-data-using-apis/use-twitter-api-r/)
+- [huxreg](https://cran.r-project.org/web/packages/huxtable/vignettes/huxreg.html): function in a package `huxreg` to make a table of regressions
 
 #### Other tips
 - [stargazer cheatsheet](https://www.jakeruss.com/cheatsheets/stargazer/)
