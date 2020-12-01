@@ -15,6 +15,9 @@
 - [Julia高速チュートリアル](https://github.com/bicycle1885/Julia-Tutorial): Juliaを一から学べる。といってもけっこうadvancedなことまでカバーしている。コード例が豊富。
 - [最新Juliaチュートリアル](https://nbviewer.jupyter.org/github/bicycle1885/JuliaTokyo7/blob/master/%E6%9C%80%E6%96%B0Julia%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB.ipynb): これもJuliaを一から学べるサイト。[Julia高速チュートリアル](https://github.com/bicycle1885/Julia-Tutorial)よりやや概念的かなという印象。
 
+### Stata
+- [Development Micro-econometrics Study Group: Code Notes](https://dmeconsg.hatenablog.com/): 「日本語で経済学分析に有用なコードの備忘録を作成しています。」
+
 ### 機械学習
 - [ディープラーニングについて学ぶならこの2冊を読むしかない](https://note.com/sadaaki/n/n7422d038e97f)
 - [深層学習は世界をどのように変えられるのか](https://www.slideshare.net/pfi/ibis2016okanohara-69230358)
