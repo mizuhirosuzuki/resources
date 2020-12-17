@@ -315,8 +315,8 @@
 - [AI in Society: 2. Algorithmic Fairness](https://kojinoshiba.com/fairness/)
 - [EconML: A Python Package for ML-Based Heterogeneous Treatment Effects Estimation](https://github.com/Microsoft/EconML)
 - [Josh Tobin - Troubleshooting Deep Neural Networks](https://www.youtube.com/watch?v=XtCNNwDi9xg)
-
 - [Machine Learning examples by Development Seed](https://medium.com/devseed/machinelearning/home)
+- [Rules of Machine Learning: Best Practices for ML Engineering by Google](https://developers.google.com/machine-learning/guides/rules-of-ml#rule_43_your_friends_tend_to_be_the_same_across_different_products_your_interests_tend_not_to_be)
 
 ### Natural Language Processing (NLP)
 
