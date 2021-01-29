@@ -285,6 +285,7 @@
 - [Calendar library examples with Tikz](http://www.texample.net/tikz/examples/feature/calendar-library/)
 - [How to use Overleaf + Git to manage your TeX file](https://member.ipmu.jp/yuji.tachikawa/misc/overleaf-git.html)
 - [How to quickly convert Powerpoint slides to Beamer (and indent the code nicely too)](https://jasonkerwin.com/nonparibus/2018/02/21/quickly-convert-powerpoint-slides-beamer-indent-code-nicely/)
+- [Metrolopis Beamer Theme](https://sv.overleaf.com/latex/templates/metropolis-beamer-theme/qzyvdhrntfmr?page=2): popular Beamer theme (?)
 
 ### Command line
 - [7 Command-Line Tools for Data Science](https://www.datascienceworkshops.com/blog/seven-command-line-tools-for-data-science/)
