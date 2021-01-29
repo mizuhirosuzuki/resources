@@ -40,6 +40,9 @@
 
 ## その他
 
+### Ph.D. 出願
+- [海外Ph.D.（経済）に出願された方の貴重な体験談（ツイッターのスレッド）](https://twitter.com/ronbunkakuman/status/1351512172841508865?s=20)
+
 ### 論文執筆
 - [日本心理学会 執筆・投稿の手びき](https://psych.or.jp/manual/)
 - [論文の書き方術（番外編）～査読報告書の書き方，条件付き採録時の回答文の書き方～](https://www.ieice.org/~cs-edit/magazine/hp/kakikata/kaitou.pdf)
@@ -67,6 +70,7 @@
 
 ### その他のその他
 
+- [おすすめの素材サイトまとめ](https://twitter.com/designkenkyujo/status/1351428516814888961?s=20)
 - [日本語で学べる構造推定の文献リスト](https://ohtanilson.hatenablog.com/entry/2019/08/19/063850)
 - [明治・大正時代の新聞記事を調べるには](https://rnavi.ndl.go.jp/research_guide/entry/post-762.php)
 - 大学生向けの「メールの書き方（[基礎編](http://www2.ipcku.kansai-u.ac.jp/~iwamoto/howtowriteanemail0.pdf)＆[応用編](http://www2.ipcku.kansai-u.ac.jp/~iwamoto/howtowriteanemail.pdf)）」
