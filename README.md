@@ -268,6 +268,7 @@
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/thinkpython2.pdf) (pdf)
 - [A list of numpy resources by Navigating ML](https://michhar.github.io/navigating-ml/python/numpy/?utm_content=buffer0f100&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [The Definitive Guide to Python import Statements by Chris Yeh](https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html)
 
 ### Julia
 - [Parallel Computing and Scientific Machine Learning](https://github.com/mitmath/18337): The lecture note of [Optimizing Serial Code](https://mitmath.github.io/18337/lecture2/optimizing) is a must-read!
@@ -289,6 +290,9 @@
 - [7 Command-Line Tools for Data Science](https://www.datascienceworkshops.com/blog/seven-command-line-tools-for-data-science/)
 - [Join, split, and compress PDF files with pdftools](https://ropensci.org/technotes/2019/04/24/pdftools-22/#disqus_thread)
 - [pdfgrep](https://pdfgrep.org/): "a commandline utility to search text in PDF files"
+
+### Unix
+- [The Unix Workbench](https://seankross.com/the-unix-workbench/bash-programming.html)
 
 ### Git
 - [Git for economists](https://www.frankpinter.com/git/)
@@ -342,6 +346,7 @@
 - [MS&E234, Data Privacy and Ethics (@ Stanford)](https://web.stanford.edu/group/msande234/cgi-bin/wordpress/)
 - [(Graduate) Industrial Organization I and II (@ U Tokyo)](https://sites.google.com/site/nwakamo/gradio2020)
 - [Topics in Econometrics: Advances in Causality and Foundations of Machine Learning (@ Harvard)](https://maxkasy.github.io/home/TopicsInEconometrics2019/)
+- [EC607 @ the University of Oregon](https://github.com/uo-ec607/lectures): "Data science for economists" by Grant McDermott
 
 ## As a referee
 
