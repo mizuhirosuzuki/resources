@@ -268,7 +268,7 @@
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/thinkpython2.pdf) (pdf)
 - [A list of numpy resources by Navigating ML](https://michhar.github.io/navigating-ml/python/numpy/?utm_content=buffer0f100&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-- [The Definitive Guide to Python import Statements by Chris Yeh](https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html)
+- [The Definitive Guide to Python import Statements by Chris Yeh](https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html): Detailed instructions of how to use `import` when you make a module (`.py` file) or a package
 
 ### Julia
 - [Parallel Computing and Scientific Machine Learning](https://github.com/mitmath/18337): The lecture note of [Optimizing Serial Code](https://mitmath.github.io/18337/lecture2/optimizing) is a must-read!
