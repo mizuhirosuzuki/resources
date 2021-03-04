@@ -187,6 +187,8 @@
 - [Programming for Economists](https://web.archive.org/web/20091101153101/http://web.mit.edu/econ-gea/14.170/)
 - [Data science for economists](https://github.com/uo-ec607/lectures)
 - [50+ Free Data Science Books](https://www.datasciencecentral.com/profiles/blogs/50-free-data-science-books)
+- [RA wiki in Gentzkow & Shapiro economics research lab](https://github.com/gslab-econ/ra-manual/wiki)
+- [Onborad wiki by Aaditya Dar](https://github.com/aadityadar/all-aboard/wiki)
 
 ### Stata
 
