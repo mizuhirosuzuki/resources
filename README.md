@@ -214,6 +214,7 @@
 - [Packages for generating LaTeX output from Stata code](https://lukestein.github.io/stata-latex-workflows/) (and a cool Stata Table Gallery [here](https://lukestein.github.io/stata-latex-workflows/gallery/)!)
 - [Nice and fast tables in Stata?](https://blogs.worldbank.org/impactevaluations/nice-and-fast-tables-stata?token=2b1e54098193f8450565fcd18a073393)
 - [Find out what other users are downloading on the SSC archive](https://www.stata.com/features/overview/whats-hot-ssc-archive/)
+- [A bunch of Stata tips for handling large datasets by Jan Kabátek](https://twitter.com/JanKabatek/status/1303209197576663040)
 
 ### From Stata to R...
 - [To R from Stata: An Introduction](https://rslbliss.shinyapps.io/R_from_Stata/)
