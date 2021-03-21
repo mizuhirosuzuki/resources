@@ -309,6 +309,7 @@
 - [Earth Lab](https://www.earthdatascience.org/)
 - [Causal Inference with Spatial Data: ArcGIS 10 for Economics Research by Masayuki Kudamatsu](https://sites.google.com/site/mkudamatsu/gis)
 - [R as GIS for Economists by Taro Mieno](https://tmieno2.github.io/R-as-GIS-for-Economists/)
+- [Geospatial Data Repository by Leah Bevis](https://leahbevis.com/geospatial-data-repository/)
 
 ## Machine Learning
 
