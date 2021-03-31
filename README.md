@@ -364,6 +364,9 @@
 
 ## Other Random (but Fun) Stuff
 
+### Blogs
+- [Geo-Mexico: the geography and dynamics of modern Mexico](https://geo-mexico.com/)
+
 ### Softwares
 - [The Sankofa Game](https://sankofagame.org/): "A game about the stories, lives, and cultures of the Akan people in coastal Ghana during the nineteenth century."
 - [Quiver: The Programmer's Notebook](http://happenapps.com/#quiver)
