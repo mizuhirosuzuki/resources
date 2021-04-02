@@ -401,6 +401,7 @@
 - [Academic Phrasebank @ Manchester](http://www.phrasebank.manchester.ac.uk/)
 - [12 Ways to Get Smarter in One Infographic](https://www.visualcapitalist.com/12-ways-smarter-mental-models/?utm_content=buffer3ee29&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [Sci-Hub-Fy](https://github.com/allanino/sci-hub-fy): "Chrome extension that passes URLs to Sci-Hub, allowing free access to scientific articles."
+- [Google Books Ngram Viewer](https://books.google.com/ngrams/)
 
 ### Really random stuff (I don't know why they are here)
 - [EyeQue VisionCheck](https://www.indiegogo.com/projects/eyeque-visioncheck-world-s-1st-automated-eye-test#/)
