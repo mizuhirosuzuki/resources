@@ -362,6 +362,7 @@
 - [EC607 @ The University of Oregon](https://github.com/uo-ec607/lectures): "Data science for economists" by Grant McDermott
 - [CS W182 @ UC Berkeley]: "Designing, Visualizing and Understanding Deep Neural Networks"
 - [Grad-IO by Chris Conlon](https://github.com/chrisconlon/Grad-IO): "This is meant to be a first PhD course in Empirical Industrial Organization. It is meant for second year PhD students."
+- [Applied Empirical Methods @ Yale (by Paul Goldsmith-Pinkham)](https://github.com/paulgp/applied-methods-phd)
 
 ## As a referee
 
