@@ -15,6 +15,7 @@
 - [RiceAtlas, a spatial database of global rice calendars and production](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JE6R2R)
 - [Radiant Earth Foundation](https://www.radiant.earth/)
 - [World Population Density (interaction mapping)](http://luminocity3d.org/WorldPopDen/#7/-22.497/-47.494)
+- [Digital Soil map for Nepal](https://soil.narc.gov.np/soil/soilmap/)
 
 ### More-or-less-dev data
 - [A Global Dataset on Education Quality](https://hpatrinos.com/2018/01/08/a-global-dataset-on-education-quality-news-and-research-75/)
@@ -33,6 +34,7 @@
 - [Firm-level Climate Change Exposure](https://osf.io/fd6jq/)
 - [Giving in the Netherlands Panel Survey](https://osf.io/4unf9/)
 - [Brazilian Municipal Identifiers (and other cool Brazilian data) by Peter Johannessen](http://www.peterjohannessen.com/data)
+- [ExperimentData](https://github.com/gsbDBI/ExperimentData)
 
 ### Not-so-econ data
 
@@ -40,6 +42,7 @@
 - [Sentencing Commision Datasets by khwilson](https://github.com/khwilson/SentencingCommissionDatasets)
 - [Marriage & Divorce Data for 1867-2010](https://nhgis.org/news#vs1867-2010)
 - [Federal Sentencing Statistics by geography](https://www.ussc.gov/research/data-reports/geography)
+- [Massachusetts Bay Transporation Authority Gated Station Entries](https://mbta-massdot.opendata.arcgis.com/datasets/001c177f07594e7c99f193dde32284c9_0/data?page=773046)
 
 ## Visualization
 
@@ -73,6 +76,7 @@
 - [Tutorials in Flowing Data](https://flowingdata.com/category/tutorials/)
 - [Some econ figures with ggplot2 by Andrew Heiss](https://twitter.com/andrewheiss/status/1005183276527448064)
 - [ggplot2 Cheat Sheet](https://rstudio.com/wp-content/uploads/2015/12/ggplot2-cheatsheet-2.0.pdf)
+- [Data Visualization by Andrew Heiss (PMAP 8921 at Georgia State University)](https://datavizs21.classes.andrewheiss.com/): "Use R, ggplot2, and the principles of graphic design to create beautiful and truthful visualizations of data"
 
 #### Textbooks
 - [Graphical Data Analysis with R](http://www.gradaanwr.net/)
@@ -134,6 +138,7 @@
 ### Job market
 - [A Guide for European Job Market Candidates by EEA](https://www.eeassoc.org/doc/upload/JM_guide_final20180816212942.pdf)
 - [“What It Takes to Get Tenure” – Perceptions and Experiences of AAEA Members](https://www.choicesmagazine.org/choices-magazine/submitted-articles/what-it-takes-to-get-tenure--perceptions-and-experiences-of-aaea-members)
+- [Guide to the European Job Market - David Schindler](http://david-schindler.de/guide-to-the-european-job-market/)
 
 ### PhD application
 - [For the ambitious, prospective PhD student: A Guide](https://economics.com.au/2012/03/27/for-the-ambitious-prospective-phd-student-a-guide/)
@@ -311,7 +316,7 @@
 - [R as GIS for Economists by Taro Mieno](https://tmieno2.github.io/R-as-GIS-for-Economists/)
 - [Geospatial Data Repository by Leah Bevis](https://leahbevis.com/geospatial-data-repository/)
 
-## Machine Learning
+## Machine Learning / Computer Science
 
 - [Caption this, with TensorFlow: How to build and train an image caption generator using a TensorFlow notebook.](https://www.oreilly.com/content/caption-this-with-tensorflow/?utm_content=buffer6f116&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md?utm_content=bufferffbdc&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
@@ -326,6 +331,9 @@
 - [Josh Tobin - Troubleshooting Deep Neural Networks](https://www.youtube.com/watch?v=XtCNNwDi9xg)
 - [Machine Learning examples by Development Seed](https://medium.com/devseed/machinelearning/home)
 - [Rules of Machine Learning: Best Practices for ML Engineering by Google](https://developers.google.com/machine-learning/guides/rules-of-ml#rule_43_your_friends_tend_to_be_the_same_across_different_products_your_interests_tend_not_to_be)
+- [List of Data Science/Big Data Resources by chaconnewu](https://github.com/chaconnewu/free-data-science-books): "This list contains free learning resources for data science and big data related concepts, techniques, and applications. "
+- [List of Free Learning Resources In Many Languages](https://github.com/EbookFoundation/free-programming-books)
+- [Open Source Society University](https://github.com/ossu/computer-science): "The OSSU curriculum is a complete education in computer science using online materials."
 
 ### Natural Language Processing (NLP)
 
@@ -351,7 +359,9 @@
 - [MS&E234, Data Privacy and Ethics (@ Stanford)](https://web.stanford.edu/group/msande234/cgi-bin/wordpress/)
 - [(Graduate) Industrial Organization I and II (@ U Tokyo)](https://sites.google.com/site/nwakamo/gradio2020)
 - [Topics in Econometrics: Advances in Causality and Foundations of Machine Learning (@ Harvard)](https://maxkasy.github.io/home/TopicsInEconometrics2019/)
-- [EC607 @ the University of Oregon](https://github.com/uo-ec607/lectures): "Data science for economists" by Grant McDermott
+- [EC607 @ The University of Oregon](https://github.com/uo-ec607/lectures): "Data science for economists" by Grant McDermott
+- [CS W182 @ UC Berkeley]: "Designing, Visualizing and Understanding Deep Neural Networks"
+- [Grad-IO by Chris Conlon](https://github.com/chrisconlon/Grad-IO): "This is meant to be a first PhD course in Empirical Industrial Organization. It is meant for second year PhD students."
 
 ## As a referee
 
@@ -383,6 +393,7 @@
 - [Interactive index to the map set for Japan 1:50,000 (Chikeizu)](https://stanford.maps.arcgis.com/apps/SimpleViewer/index.html?appid=733446cc5a314ddf85c59ecc10321b41)
 - [Free textbooks @ openstax](https://openstax.org/subjects)
 - [Vyking Ship for international shopping](https://www.vykingship.com/)
+- [Mathcha](https://www.mathcha.io/): "Online mathematics editor: a fast way to write and share mathematics"
 
 ### Fun images
 - [The Age of Borders](https://c1.staticflickr.com/5/4596/24556520177_d5a5b6d97a_o.png?ct=t(January_5_20181_5_2018)&mc_cid=2144f3d507&mc_eid=1bb6d0038b)
@@ -410,3 +421,4 @@
 - [Using Countdown Clock Data to Understand the New York City Subway](https://toddwschneider.com/posts/nyc-subway-data-analysis/)
 - [Common Cancer Myths and Misconceptions](https://www.cancer.gov/about-cancer/causes-prevention/risk/myths?platform=hootsuite)
 - [Tax policy for developing countries by IMF](https://www.imf.org/external/pubs/ft/issues/issues27/)
+- [Established remote companies](https://github.com/yanirs/established-remote): " curated list of established remote/distributed/virtual tech companies. The criteria for inclusion are intentionally vague, but the general idea is to include only established tech companies for which a significant portion of the workforce works remotely. "
