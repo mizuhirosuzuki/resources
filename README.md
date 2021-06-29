@@ -25,6 +25,7 @@
 - [Panel data tracking 1000s of adlescent girls over 10 years](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/48GFKU) (also see [this tweet](https://twitter.com/rglenner/status/1043962375664291841))
 - Data on Internally Displaced Persons (IDPs) (downloadable at https://www.cgdev.org/sites/default/files/idp_locations_data.zip)
 - [The Socioeconomic High-resolution Rural-Urban Geographic Platform for India (SHRUG)](http://www.devdatalab.org/shrug): "The Socioeconomic High-resolution Rural-Urban Geographic Platform for India (SHRUG) is a geographic platform that facilitates data sharing between researchers working on India. It is an open access repository currently comprising dozens of datasets covering India’s 500,000 villages and 8000 towns using a set of a common geographic identifiers that span 25 years."
+- [Refugee Resettlement Data 1975-2018](https://www.refugeeresettlementdata.com/data.html): "This website is the result of a collaboration between the Universities of Göttingen, Heidelberg and Western Australia. It has been created as a platform to share digitised individual refugee data (1975-2008) obtained from publicly held records as originally recorded by the Office of Refugee Resettlement. A second geo-coded version is also available on this site that covers the 1975-2018 period. "
 
 ### Other more-or-less-econ data
 - [The Stanford Open Policing Project](https://openpolicing.stanford.edu/)
