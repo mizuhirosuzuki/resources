@@ -16,6 +16,7 @@
 - [Radiant Earth Foundation](https://www.radiant.earth/)
 - [World Population Density (interaction mapping)](http://luminocity3d.org/WorldPopDen/#7/-22.497/-47.494)
 - [Digital Soil map for Nepal](https://soil.narc.gov.np/soil/soilmap/)
+- [3-Hourly Assimilation Aerosol Optical Depth Analysis](https://disc.gsfc.nasa.gov/datasets/M2I3NXGAS_5.12.4/summary)
 
 ### More-or-less-dev data
 - [A Global Dataset on Education Quality](https://hpatrinos.com/2018/01/08/a-global-dataset-on-education-quality-news-and-research-75/)
