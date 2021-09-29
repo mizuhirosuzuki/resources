@@ -307,6 +307,7 @@
 
 ### Git
 - [Git for economists](https://www.frankpinter.com/git/)
+- [Version Control with Git](https://swcarpentry.github.io/git-novice/)
 
 ### Others
 - [Computational Mathematics with SageMath](http://sagebook.gforge.inria.fr/english.html)
