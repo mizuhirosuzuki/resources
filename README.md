@@ -363,7 +363,7 @@
 - [(Graduate) Industrial Organization I and II (@ U Tokyo)](https://sites.google.com/site/nwakamo/gradio2020)
 - [Topics in Econometrics: Advances in Causality and Foundations of Machine Learning (@ Harvard)](https://maxkasy.github.io/home/TopicsInEconometrics2019/)
 - [EC607 @ The University of Oregon](https://github.com/uo-ec607/lectures): "Data science for economists" by Grant McDermott
-- [CS W182 @ UC Berkeley]: "Designing, Visualizing and Understanding Deep Neural Networks"
+- [CS W182 @ UC Berkeley](https://bcourses.berkeley.edu/courses/1453965): "Designing, Visualizing and Understanding Deep Neural Networks"
 - [Grad-IO by Chris Conlon](https://github.com/chrisconlon/Grad-IO): "This is meant to be a first PhD course in Empirical Industrial Organization. It is meant for second year PhD students."
 - [Applied Empirical Methods @ Yale (by Paul Goldsmith-Pinkham)](https://github.com/paulgp/applied-methods-phd)
 - [The Missing Semester of Your CS Education @ MIT](https://missing.csail.mit.edu/)
