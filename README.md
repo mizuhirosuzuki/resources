@@ -2,6 +2,7 @@
 - [Resources by Jennifer Doleac](http://jenniferdoleac.com/resources/)
 - [Resources by Ryan Edwards](http://www.ryanbedwards.com/resources)
 - [Tips 4 Economists by Masayuki Kudamatsu](https://sites.google.com/site/mkudamatsu/tips4economists)
+- [Resources for PhD Students by Shanjun Li](http://li.dyson.cornell.edu/phdRes.php)
 
 ## Datasets
 
@@ -10,6 +11,8 @@
 - [The Armed Conflict Location & Event Data Project (ACLED)](https://acleddata.com/#/dashboard) ([this](https://acleddata.com/dashboard/#/dashboard) is a nice dashboard)
 - [Electoral Contention and Violence](https://ecavdata.org/)
 - [RTV Dataset on Right-wing terrorism and violence in Western Europe](https://www.sv.uio.no/c-rex/english/news-and-events/news/2016/rtv-dataset.html)
+- [AfroGrid](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LDI5TK): "...: an integrated, disaggregated 0.5 degree grid-month data on conflict, environmental stress, and socioeconomic features in Africa, ..."
+- [World Historical Battles Database](https://osf.io/j357k/)
 
 ### Geospatial data
 - [RiceAtlas, a spatial database of global rice calendars and production](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JE6R2R)
@@ -17,6 +20,8 @@
 - [World Population Density (interaction mapping)](http://luminocity3d.org/WorldPopDen/#7/-22.497/-47.494)
 - [Digital Soil map for Nepal](https://soil.narc.gov.np/soil/soilmap/)
 - [3-Hourly Assimilation Aerosol Optical Depth Analysis](https://disc.gsfc.nasa.gov/datasets/M2I3NXGAS_5.12.4/summary)
+- [PMGSY Rural Connectivity Datasets](https://geosadak-pmgsy.nic.in/opendata) (Twitter thread [here](https://twitter.com/Stats_of_India/status/1496117483161657349))
+- [The Global Resources Dataset](https://mikedenly.com/datasets/global-resources-dataset): "The Global Resources Dataset (GRD) is the world's largest time-varying, spatial natural resources dataset. The current version of the GRD covers 197 resources and in 116 countries. All 77,000 observations have latitude and longitude coordinates, and most observations contain resource output information as well as price/value details from multiple sources."
 
 ### More-or-less-dev data
 - [A Global Dataset on Education Quality](https://hpatrinos.com/2018/01/08/a-global-dataset-on-education-quality-news-and-research-75/)
@@ -27,6 +32,8 @@
 - Data on Internally Displaced Persons (IDPs) (downloadable at https://www.cgdev.org/sites/default/files/idp_locations_data.zip)
 - [The Socioeconomic High-resolution Rural-Urban Geographic Platform for India (SHRUG)](http://www.devdatalab.org/shrug): "The Socioeconomic High-resolution Rural-Urban Geographic Platform for India (SHRUG) is a geographic platform that facilitates data sharing between researchers working on India. It is an open access repository currently comprising dozens of datasets covering India’s 500,000 villages and 8000 towns using a set of a common geographic identifiers that span 25 years."
 - [Refugee Resettlement Data 1975-2018](https://www.refugeeresettlementdata.com/data.html): "This website is the result of a collaboration between the Universities of Göttingen, Heidelberg and Western Australia. It has been created as a platform to share digitised individual refugee data (1975-2008) obtained from publicly held records as originally recorded by the Office of Refugee Resettlement. A second geo-coded version is also available on this site that covers the 1975-2018 period. "
+- [Indian National Family Health Survey (2019-2020) in a single CSV file](https://github.com/pratapvardhan/NFHS-5)
+- [Statistics of the Russian Empire: Digitized Data Tables](https://sites.google.com/a/umn.edu/emalkov/data)
 
 ### Other more-or-less-econ data
 - [The Stanford Open Policing Project](https://openpolicing.stanford.edu/)
@@ -37,6 +44,11 @@
 - [Giving in the Netherlands Panel Survey](https://osf.io/4unf9/)
 - [Brazilian Municipal Identifiers (and other cool Brazilian data) by Peter Johannessen](http://www.peterjohannessen.com/data)
 - [ExperimentData](https://github.com/gsbDBI/ExperimentData)
+- [Food flows between counties in the United States from 2007 to 2017](https://databank.illinois.edu/datasets/IDB-9585947)
+- [Anatomy of Resistance Campaigns (ARC) dataset](https://journals.sagepub.com/doi/full/10.1177/00223433211029512#_i15): "We introduce the Anatomy of Resistance Campaigns (ARC) dataset, which records information on 1,426 organizations that participated in events of maximalist violent and nonviolent contention in Africa from 1990 to 2015."
+- [Some big-ish AgEcon data (Twitter threads)](https://twitter.com/BadruddozaSyed/status/1447685991892914178)
+- [TheDiscreteChoiceDataBank](https://github.com/alvarogutyerrez/TheDiscreteChoiceDataBank)
+- [NBER-CES Manufacturing Industry Database](https://www.nber.org/research/data/nber-ces-manufacturing-industry-database)
 
 ### Not-so-econ data
 
@@ -45,6 +57,7 @@
 - [Marriage & Divorce Data for 1867-2010](https://nhgis.org/news#vs1867-2010)
 - [Federal Sentencing Statistics by geography](https://www.ussc.gov/research/data-reports/geography)
 - [Massachusetts Bay Transporation Authority Gated Station Entries](https://mbta-massdot.opendata.arcgis.com/datasets/001c177f07594e7c99f193dde32284c9_0/data?page=773046)
+- [Appointment wait time data for primary & specialty care in veterans health administration facilities vs. community medical centers](https://www.sciencedirect.com/science/article/pii/S2352340921004182?via%3Dihub#fig0001)
 
 ## Visualization
 
@@ -65,6 +78,9 @@
 - [Geospatial Data Visualization Tool by kepler.gl](https://kepler.gl/)
 - [Remove to Improve (the data-ink ratio)](https://images.squarespace-cdn.com/content/56713bf4dc5cb41142f28d1f/1450306653111-70K5IT30R69NWPDIE1ZJ/data-ink.gif?content-type=image%2Fgif)
 - [Data visualization by The Economist](https://medium.economist.com/tagged/data-visualization) (["Mistakes, we've drawn a few"](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368) is one of my favorites)
+- [10 ways to use fewer colors in your data visualizations](https://blog.datawrapper.de/10-ways-to-use-fewer-colors-in-your-data-visualizations/): (Lisa Charlotte Muth's blog posts [here](https://lisacharlottemuth.com/) are all cool!)
+- [Science visualization trends of 2021](https://helenajambor.wordpress.com/2022/01/04/science-visualization-trends-of-2021/)
+- [Free visuals for PowerPoint (or whatever) slides](https://twitter.com/rodriguesjm6/status/1476580189316562953)
 
 #### Textbooks
 - [Data Visualization: A practical introduction](https://socviz.co/index.html#preface)
@@ -79,6 +95,7 @@
 - [Some econ figures with ggplot2 by Andrew Heiss](https://twitter.com/andrewheiss/status/1005183276527448064)
 - [ggplot2 Cheat Sheet](https://rstudio.com/wp-content/uploads/2015/12/ggplot2-cheatsheet-2.0.pdf)
 - [Data Visualization by Andrew Heiss (PMAP 8921 at Georgia State University)](https://datavizs21.classes.andrewheiss.com/): "Use R, ggplot2, and the principles of graphic design to create beautiful and truthful visualizations of data"
+- [ggplot Wizardry: My Favorite Tricks and Secrets for Beautiful Plots in R by Cédric Scherer](https://github.com/Z3tt/OutlierConf2021/)
 
 #### Textbooks
 - [Graphical Data Analysis with R](http://www.gradaanwr.net/)
@@ -93,6 +110,7 @@
 - [viridis](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html) ("Use the color scales in this package to make plots that are pretty, better represent your data, easier to read by those with colorblindness, and print well in grey scale.")
 - [wesanderson](https://github.com/karthik/wesanderson)
 - [ochRe](https://github.com/ropenscilabs/ochRe)
+- [ghibli](https://github.com/ewenme/ghibli): So cute!!
 
 #### Other visualization packages
 - [xkcd](http://xkcd.r-forge.r-project.org/): "This package tries to give a satisfactory answer to the question How can we make xkcd style graphs in R?."
@@ -100,12 +118,17 @@
 - [Superheat](https://rlbarter.github.io/superheat/index.html): "The superheat package was developed to produce customizable and extendable heatmaps which act as a tool for the visual exploration of complex datasets."
 - [circlize for circular visualization](https://cran.r-project.org/web/packages/circlize/index.html)
 
+#### Tips
+
+- [Some fun tips in ggplot](https://twitter.com/data_question/status/1496130684729303045)
+
 ### Stata
 - [Stata Visual Overview](https://www.stata.com/support/faqs/graphics/gph/stata-graphs/)
 - [Stata Visual Library (with a focus on impact evaluation) by World Bank](https://worldbank.github.io/Stata-IE-Visual-Library/)
 - [BLINDSCHEMES: Stata module to provide graph schemes sensitive to color vision deficiency](https://ideas.repec.org/c/boc/bocode/s458251.html)
 - [colorscatter](https://github.com/simonheb/colorscatter): "Stata code to draw scatterplots with varying marker colors."
 - [Stata color schemes (Twitter thread)](https://twitter.com/DanBischof/status/1008052059965452289)
+- [How to create your own Stata graph schemes](https://medium.com/the-stata-guide/stata-schemes-5ef99d099585)
 
 ### Julia
 
@@ -141,6 +164,7 @@
 - [A Guide for European Job Market Candidates by EEA](https://www.eeassoc.org/doc/upload/JM_guide_final20180816212942.pdf)
 - [“What It Takes to Get Tenure” – Perceptions and Experiences of AAEA Members](https://www.choicesmagazine.org/choices-magazine/submitted-articles/what-it-takes-to-get-tenure--perceptions-and-experiences-of-aaea-members)
 - [Guide to the European Job Market - David Schindler](http://david-schindler.de/guide-to-the-european-job-market/)
+- [Questions at first round interviews by Natalia Emanuel](https://twitter.com/NataliaHEmanuel/status/1471932685912313859?s=20&t=XO3hp37T5dUngtBxB8cjsw): (she also has a nice thread about what to expect for first round interviews [here](https://twitter.com/NataliaHEmanuel/status/1468596059375083527?s=20&t=XO3hp37T5dUngtBxB8cjsw))
 
 ### PhD application
 - [For the ambitious, prospective PhD student: A Guide](https://economics.com.au/2012/03/27/for-the-ambitious-prospective-phd-student-a-guide/)
@@ -157,6 +181,10 @@
 - [Reflections on Grad School in Economics by Nick Hagerty](https://github.com/hagertynw/grad-school-reflections/blob/master/grad_school_reflections.pdf)
 - [The Tenure Process at Research Universities by Petra Todd](http://athena.sas.upenn.edu/petra/csweparticle.pdf)
 - [How to generate ideas by Matt Lowe](https://twitter.com/hmmlowe/status/1281317062149718016)
+- [Academic career advice compiled by James Freedman](https://sites.dartmouth.edu/nyhan/academic-careers/)
+- [Advice for Phd Students in Economics by Chris Roth and David Schindler](https://sites.google.com/view/econgradadvice/)
+- [Advice for Academic Research by Ricardo Dahis](https://www.ricardodahis.com/papers/Dahis_Advice_Research.pdf)
+
 
 ### Writing
 - [How to write an economics paper](https://twitter.com/DaveEvansPhD/status/953615260392583168)
@@ -181,6 +209,7 @@
 - [List of crime papers by Jennifer Doleac](https://docs.google.com/spreadsheets/d/1zyRB708QpsxG_8vNCRl7gv5FyrPE81w3mF_kMVJlHbY/edit#gid=686724554)
 - [A Beginner's Guide to #EconTwitter](http://matt-clancy.com/a-beginners-guide-to-econtwitter-preliminary-version/)
 - [SQ3R method](https://www.weber.edu/wsuimages/vetsupwardbound/StudySkills/SQ3Rmethod.pdf)
+- [Global Gender History](https://www.draliceevans.com/gender-history-books)
 
 ## Programming / Coding
 
@@ -222,8 +251,10 @@
 - [Nice and fast tables in Stata?](https://blogs.worldbank.org/impactevaluations/nice-and-fast-tables-stata?token=2b1e54098193f8450565fcd18a073393)
 - [Find out what other users are downloading on the SSC archive](https://www.stata.com/features/overview/whats-hot-ssc-archive/)
 - [A bunch of Stata tips for handling large datasets by Jan Kabátek](https://twitter.com/JanKabatek/status/1303209197576663040)
+- [Stata style guide by Sean Higgins](https://github.com/skhiggins/Stata_guide)
 
 ### From Stata to R...
+- [Translating Stata to R](https://stata2r.github.io/)
 - [To R from Stata: An Introduction](https://rslbliss.shinyapps.io/R_from_Stata/)
 - [Introduction to R for advanced Stata users by World Bank DIME Analytics](https://github.com/worldbank/dime-r-training)
 
@@ -252,6 +283,7 @@
 - [dqrng](https://cran.r-project.org/web/packages/dqrng/vignettes/dqrng.html): "Fast Pseudo Random Number Generators for R"
 - Rtweet: Twitter API in R, nice introduction is [here](https://www.earthdatascience.org/courses/earth-analytics/get-data-using-apis/use-twitter-api-r/)
 - [huxreg](https://cran.r-project.org/web/packages/huxtable/vignettes/huxreg.html): function in a package `huxreg` to make a table of regressions
+- [collapse](https://sebkrantz.github.io/collapse/): "`collapse` is a C/C++ based package for data transformation and statistical computing in R." Grant McDermott explains how you can achieve a major speedup by using `collapse` [here](https://twitter.com/grant_mcdermott/status/1493400952878952448).
 
 #### Other tips
 - [stargazer cheatsheet](https://www.jakeruss.com/cheatsheets/stargazer/)
@@ -282,6 +314,7 @@
 
 ### Julia
 - [Parallel Computing and Scientific Machine Learning](https://github.com/mitmath/18337): The lecture note of [Optimizing Serial Code](https://mitmath.github.io/18337/lecture2/optimizing) is a must-read!
+- [Julia for Economists 2022 by Cameron Pfiffer](https://www.youtube.com/watch?v=BnTYMOOPEzw&list=PLbuwVVKCI3sRW0Y5ehBFwdFVuyuy87ram&ab_channel=CameronPfiffer)
 - [ScPo-CompEcon CoursePack](https://scpo-compecon.github.io/CoursePack/)
 
 ### LaTeX
@@ -296,7 +329,7 @@
 - [How to use Overleaf + Git to manage your TeX file](https://member.ipmu.jp/yuji.tachikawa/misc/overleaf-git.html)
 - [How to quickly convert Powerpoint slides to Beamer (and indent the code nicely too)](https://jasonkerwin.com/nonparibus/2018/02/21/quickly-convert-powerpoint-slides-beamer-indent-code-nicely/)
 - [Metrolopis Beamer Theme](https://sv.overleaf.com/latex/templates/metropolis-beamer-theme/qzyvdhrntfmr?page=2): popular Beamer theme (?)
-
+- [Cool LaTeX article and Beamer templates by Kyle F Butts](https://github.com/kylebutts/templates)
 ### Command line
 - [7 Command-Line Tools for Data Science](https://www.datascienceworkshops.com/blog/seven-command-line-tools-for-data-science/)
 - [Join, split, and compress PDF files with pdftools](https://ropensci.org/technotes/2019/04/24/pdftools-22/#disqus_thread)
@@ -366,7 +399,11 @@
 - [CS W182 @ UC Berkeley](https://bcourses.berkeley.edu/courses/1453965): "Designing, Visualizing and Understanding Deep Neural Networks"
 - [Grad-IO by Chris Conlon](https://github.com/chrisconlon/Grad-IO): "This is meant to be a first PhD course in Empirical Industrial Organization. It is meant for second year PhD students."
 - [Applied Empirical Methods @ Yale (by Paul Goldsmith-Pinkham)](https://github.com/paulgp/applied-methods-phd)
-- [The Missing Semester of Your CS Education @ MIT](https://missing.csail.mit.edu/)
+- [The Missing Semester of Your CS Education (@ MIT)](https://missing.csail.mit.edu/)
+- [STAT447: Data Science Programming Methods (@ U Illinois)](https://stat447.com/)
+- [Text as Data by Arthur Spirling](https://github.com/ArthurSpirling/text-as-data-class-spring2021)
+- [Econ 842: Development Seminar II (@ CUNY)](https://jhconning.github.io/DevII/README.html)
+- [ECON9912C: Dynamic Games in Environmental Economics (@ U Oslo)](https://www.sv.uio.no/econ/personer/vit/bardh/dokumenter/minicourse.pdf)
 
 ## As a referee
 
@@ -376,6 +413,10 @@
 
 - [Causal Inference Book](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 - [Causal inference techniques in epidemiology](https://www.publichealth.columbia.edu/research/population-health-methods/techniques)
+
+## Replication
+
+- [Replication in the social sciences](https://replication.uni-goettingen.de/wiki/index.php/Main_Page)
 
 ## Other Random (but Fun) Stuff
 
@@ -388,6 +429,7 @@
 - [LINNÉ LENS - Scannable AI encyclopedia](https://lens.linne.ai/en/)
 - [Draftable to compare documents](https://draftable.com/compare)
 - [Table Tool](https://github.com/jakob/TableTool): "A simple CSV editor for OS X"
+- [Layout Parser: A unified toolkit for Deep Learning Based Document Image Analysis](https://github.com/Layout-Parser/layout-parser)
 
 ### Fun websites
 - [Semantic Scale Network](https://rosenbusch.shinyapps.io/semantic_net/): "The Semantic Scale Network helps researchers and reviewers in psychological science to detect semantically related scales."
@@ -399,6 +441,7 @@
 - [Free textbooks @ openstax](https://openstax.org/subjects)
 - [Vyking Ship for international shopping](https://www.vykingship.com/)
 - [Mathcha](https://www.mathcha.io/): "Online mathematics editor: a fast way to write and share mathematics"
+- [An ka taa: Start learning Bambara or Dioula from scratch](https://www.ankataa.com/course)
 
 ### Fun images
 - [The Age of Borders](https://c1.staticflickr.com/5/4596/24556520177_d5a5b6d97a_o.png?ct=t(January_5_20181_5_2018)&mc_cid=2144f3d507&mc_eid=1bb6d0038b)
@@ -418,6 +461,7 @@
 - [12 Ways to Get Smarter in One Infographic](https://www.visualcapitalist.com/12-ways-smarter-mental-models/?utm_content=buffer3ee29&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [Sci-Hub-Fy](https://github.com/allanino/sci-hub-fy): "Chrome extension that passes URLs to Sci-Hub, allowing free access to scientific articles."
 - [Google Books Ngram Viewer](https://books.google.com/ngrams/)
+- [How to host HTML and PDF files on GitHub](https://github.com/grantmcdermott/example)
 
 ### Really random stuff (I don't know why they are here)
 - [EyeQue VisionCheck](https://www.indiegogo.com/projects/eyeque-visioncheck-world-s-1st-automated-eye-test#/)
@@ -427,3 +471,7 @@
 - [Common Cancer Myths and Misconceptions](https://www.cancer.gov/about-cancer/causes-prevention/risk/myths?platform=hootsuite)
 - [Tax policy for developing countries by IMF](https://www.imf.org/external/pubs/ft/issues/issues27/)
 - [Established remote companies](https://github.com/yanirs/established-remote): " curated list of established remote/distributed/virtual tech companies. The criteria for inclusion are intentionally vague, but the general idea is to include only established tech companies for which a significant portion of the workforce works remotely. "
+- [Brave Browser](https://brave.com/)
+
+
+
