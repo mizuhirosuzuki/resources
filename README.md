@@ -404,6 +404,7 @@
 - [Text as Data by Arthur Spirling](https://github.com/ArthurSpirling/text-as-data-class-spring2021)
 - [Econ 842: Development Seminar II (@ CUNY)](https://jhconning.github.io/DevII/README.html)
 - [ECON9912C: Dynamic Games in Environmental Economics (@ U Oslo)](https://www.sv.uio.no/econ/personer/vit/bardh/dokumenter/minicourse.pdf)
+- [CS7792 - Counterfactual Machine Learning @ Cornell](https://www.cs.cornell.edu/courses/cs7792/2018fa/)
 
 ## As a referee
 
