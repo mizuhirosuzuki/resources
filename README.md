@@ -22,6 +22,7 @@
 - [3-Hourly Assimilation Aerosol Optical Depth Analysis](https://disc.gsfc.nasa.gov/datasets/M2I3NXGAS_5.12.4/summary)
 - [PMGSY Rural Connectivity Datasets](https://geosadak-pmgsy.nic.in/opendata) (Twitter thread [here](https://twitter.com/Stats_of_India/status/1496117483161657349))
 - [The Global Resources Dataset](https://mikedenly.com/datasets/global-resources-dataset): "The Global Resources Dataset (GRD) is the world's largest time-varying, spatial natural resources dataset. The current version of the GRD covers 197 resources and in 116 countries. All 77,000 observations have latitude and longitude coordinates, and most observations contain resource output information as well as price/value details from multiple sources."
+- [Global Oil and Gas Features](https://www.arcgis.com/home/item.html?id=ef2d703fcf43426ba4a6108001974570)
 
 ### More-or-less-dev data
 - [A Global Dataset on Education Quality](https://hpatrinos.com/2018/01/08/a-global-dataset-on-education-quality-news-and-research-75/)
@@ -34,6 +35,7 @@
 - [Refugee Resettlement Data 1975-2018](https://www.refugeeresettlementdata.com/data.html): "This website is the result of a collaboration between the Universities of Göttingen, Heidelberg and Western Australia. It has been created as a platform to share digitised individual refugee data (1975-2008) obtained from publicly held records as originally recorded by the Office of Refugee Resettlement. A second geo-coded version is also available on this site that covers the 1975-2018 period. "
 - [Indian National Family Health Survey (2019-2020) in a single CSV file](https://github.com/pratapvardhan/NFHS-5)
 - [Statistics of the Russian Empire: Digitized Data Tables](https://sites.google.com/a/umn.edu/emalkov/data)
+- [Database for Development Economics Research by Development Economics Lab @Kyoto University](https://sites.google.com/kyoto-u.ac.jp/database4der/development-economics-lab-at-kyoto-university/data-link)
 
 ### Other more-or-less-econ data
 - [The Stanford Open Policing Project](https://openpolicing.stanford.edu/)
@@ -96,6 +98,7 @@
 - [ggplot2 Cheat Sheet](https://rstudio.com/wp-content/uploads/2015/12/ggplot2-cheatsheet-2.0.pdf)
 - [Data Visualization by Andrew Heiss (PMAP 8921 at Georgia State University)](https://datavizs21.classes.andrewheiss.com/): "Use R, ggplot2, and the principles of graphic design to create beautiful and truthful visualizations of data"
 - [ggplot Wizardry: My Favorite Tricks and Secrets for Beautiful Plots in R by Cédric Scherer](https://github.com/Z3tt/OutlierConf2021/)
+- [Dataviz Inspiration](https://www.dataviz-inspiration.com/)
 
 #### Textbooks
 - [Graphical Data Analysis with R](http://www.gradaanwr.net/)
@@ -405,6 +408,9 @@
 - [Econ 842: Development Seminar II (@ CUNY)](https://jhconning.github.io/DevII/README.html)
 - [ECON9912C: Dynamic Games in Environmental Economics (@ U Oslo)](https://www.sv.uio.no/econ/personer/vit/bardh/dokumenter/minicourse.pdf)
 - [CS7792 - Counterfactual Machine Learning @ Cornell](https://www.cs.cornell.edu/courses/cs7792/2018fa/)
+- [Statistical Rethinking by Richard McElreath](https://github.com/rmcelreath/stat_rethinking_2022)
+- [The Geography of Transport Systems](https://transportgeography.org/)
+- [ECON 2070: A Computer Science Toolbox for Modern Economic Theory (@ Harvard)](http://yannai.gonch.name/scientific/syllabi/2022-econ2070.html)
 
 ## As a referee
 
