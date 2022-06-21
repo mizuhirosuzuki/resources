@@ -79,6 +79,7 @@
 ### 研究全般
 - [私の研究おすすめツール（文献管理編） (Takeshi Teshima さん)](https://note.com/takeshi_teshima/n/nd28a6e3dfb05): Zotero + PaperShip + WebDav storage を使った文献管理について解説
 - [研究上のtipsあれこれ (Keisuke Takano さん)](https://sites.google.com/site/s1211270url/regscitips)
+- [開発経済学における教育開発分野の実証研究から学ぶ (丸山隆央 さん)](https://sites.google.com/view/tmaru-dev-economics/%E3%83%9B%E3%83%BC%E3%83%A0?authuser=0)
 
 ### Twitter でみつけたごはん屋さん
 - いなかむら @ 小岩: タイ料理
