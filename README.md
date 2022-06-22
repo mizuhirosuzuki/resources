@@ -204,6 +204,7 @@
 - [How to construct a Nature summary paragraph](https://s3-service-broker-live-19ea8b98-4d41-4cb4-be4c-d68f4963b7dd.s3.amazonaws.com/uploads/ckeditor/attachments/7808/2c_Summary_para.pdf)
 - [Publish, Don't Perish: Submitting Research Articles to Refereed Journals](http://www.nacbs.org/archive/nacbs-forum-on-the-making-of-the-working-british-historian/publish-don-t-perish/)
 - [A Better Lit Review Workflow by Shyam Raman](https://twitter.com/shyamkraman/status/1497080453513105409?s=20&t=hsVJtxhNGF6eN-Hi9nlOTQ)
+- [Journals with short paper options where economists might publish](https://docs.google.com/spreadsheets/d/19eOOIIIRitfCOcsFbGHQseiVSg35sNyxATCIcE-G5h0/edit#gid=0)
 
 ### Lecture Notes
 - [General Equilibrium](https://web.stanford.edu/~jdlevin/Econ%20202/General%20Equilibrium.pdf)
