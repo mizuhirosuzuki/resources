@@ -312,6 +312,7 @@
 - [Create Awesome LaTeX Table with knitr::kable and kableExtra](https://haozhu233.github.io/kableExtra/awesome_table_in_pdf.pdf)
 - [Rcpp for everyone](https://teuder.github.io/rcpp4everyone_en/)
 - [Intro to Network Analysis in R](https://dshizuka.github.io/networkanalysis/index.html)
+- [Web scraping in R](https://www.scrapingdog.com/blog/web-scraping-r/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_376)
 
 ### Python
 - [Style Guide for Python](https://www.python.org/dev/peps/pep-0008/)
