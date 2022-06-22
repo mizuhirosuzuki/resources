@@ -36,6 +36,7 @@
 - [Gitでやらかした時に使える19個の奥義](https://qiita.com/muran001/items/dea2bbbaea1260098051)
 - [事業評価における衛星・GISデータ活用 (JICA)](https://www.jica.go.jp/activities/evaluation/gis/index.html)
 - [データサイエンス・オンライン講座「誰でも使える統計オープンデータ」](https://gacco.org/stat-japan3/)
+- [ミクシィの21新卒技術研修の資料と動画を公開します！](https://mixi-developers.mixi.co.jp/21-technical-training-a0bcdbf9bca0)
 
 ## データ
 
@@ -83,6 +84,7 @@
 - [簡潔で分かりやすい英文を書くためのコツを整理した (KRSK さん)](https://www.krsk-phs.com/entry/writing.clearly)
 - [グリーンカードへの準備 (Twitterスレッド)](https://twitter.com/gomessdegomess/status/1383226925351464960)
 - [XPLANE 海外大学院向け奨学金データベース](https://xplane.jp/fellowships-list/)
+- [大学院留学奨学金備忘録](https://mosh-shu.hatenablog.com/entry/2022/02/14/114509)
 
 ### 研究全般
 - [私の研究おすすめツール（文献管理編） (Takeshi Teshima さん)](https://note.com/takeshi_teshima/n/nd28a6e3dfb05): Zotero + PaperShip + WebDav storage を使った文献管理について解説
