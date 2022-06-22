@@ -106,6 +106,7 @@
 - [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
 - [Data Visualization with R](https://rkabacoff.github.io/datavis/)
 - [Data visualisation chapter in "R for Data Science"](https://r4ds.had.co.nz/data-visualisation.html)
+- [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/)
 
 #### Color Palettes in ggplot2 (available color pallets are found [here](https://github.com/EmilHvitfeldt/r-color-palettes) and most of the color palettes are available through [paletteer](https://github.com/EmilHvitfeldt/paletteer))
 - [efg’s R Notes: RColorBrewer Package](https://earlglynn.github.io/RNotes/package/RColorBrewer/index.html)
@@ -168,6 +169,7 @@
 - [“What It Takes to Get Tenure” – Perceptions and Experiences of AAEA Members](https://www.choicesmagazine.org/choices-magazine/submitted-articles/what-it-takes-to-get-tenure--perceptions-and-experiences-of-aaea-members)
 - [Guide to the European Job Market - David Schindler](http://david-schindler.de/guide-to-the-european-job-market/)
 - [Questions at first round interviews by Natalia Emanuel](https://twitter.com/NataliaHEmanuel/status/1471932685912313859?s=20&t=XO3hp37T5dUngtBxB8cjsw): (she also has a nice thread about what to expect for first round interviews [here](https://twitter.com/NataliaHEmanuel/status/1468596059375083527?s=20&t=XO3hp37T5dUngtBxB8cjsw))
+- [Getting Your Dream Job in Earth Observation](https://mapscaping.com/podcast/getting-your-dream-job-in-earth-observation/)
 
 ### PhD application
 - [For the ambitious, prospective PhD student: A Guide](https://economics.com.au/2012/03/27/for-the-ambitious-prospective-phd-student-a-guide/)
@@ -187,7 +189,6 @@
 - [Academic career advice compiled by James Freedman](https://sites.dartmouth.edu/nyhan/academic-careers/)
 - [Advice for Phd Students in Economics by Chris Roth and David Schindler](https://sites.google.com/view/econgradadvice/)
 - [Advice for Academic Research by Ricardo Dahis](https://www.ricardodahis.com/papers/Dahis_Advice_Research.pdf)
-
 
 ### Writing
 - [How to write an economics paper](https://twitter.com/DaveEvansPhD/status/953615260392583168)
@@ -245,6 +246,8 @@
 - [NEARSTAT: Stata module to calculate distance-based variables and export distance matrix to text file](https://ideas.repec.org/c/boc/bocode/s457110.html)
 - [REGSAVE: Stata module to save regression results to a Stata-formatted dataset](https://ideas.repec.org/c/boc/bocode/s456964.html)
 - [set cformat](https://www.stata.com/manuals13/rsetcformat.pdf)
+- [joyplot](https://github.com/asjadnaqvi/stata-joyplot)
+- [clipgeo](https://github.com/asjadnaqvi/stata-clipgeo)
 
 #### Other tips
 - [Importing Twitter data into Stata](https://blog.stata.com/2017/07/25/importing-twitter-data-into-stata/)
@@ -314,6 +317,7 @@
 - [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/thinkpython2.pdf) (pdf)
 - [A list of numpy resources by Navigating ML](https://michhar.github.io/navigating-ml/python/numpy/?utm_content=buffer0f100&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [The Definitive Guide to Python import Statements by Chris Yeh](https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html): Detailed instructions of how to use `import` when you make a module (`.py` file) or a package
+- [geospatial package](https://github.com/giswqs/geospatial): "A Python package for installing commonly used packages for geospatial analysis and data visualization with only one command"
 
 ### Julia
 - [Parallel Computing and Scientific Machine Learning](https://github.com/mitmath/18337): The lecture note of [Optimizing Serial Code](https://mitmath.github.io/18337/lecture2/optimizing) is a must-read!
