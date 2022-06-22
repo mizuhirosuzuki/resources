@@ -387,6 +387,7 @@
 - [List of Free Learning Resources In Many Languages](https://github.com/EbookFoundation/free-programming-books)
 - [Open Source Society University](https://github.com/ossu/computer-science): "The OSSU curriculum is a complete education in computer science using online materials."
 - [The fastai book](https://github.com/fastai/fastbook)
+- [Machine Learning and NLP: Advances and Applications](https://github.com/suhara/mlnlp-isp2020)
 
 ### Natural Language Processing (NLP)
 
