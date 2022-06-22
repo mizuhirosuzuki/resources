@@ -193,7 +193,7 @@
 - [Advice for Phd Students in Economics by Chris Roth and David Schindler](https://sites.google.com/view/econgradadvice/)
 - [Advice for Academic Research by Ricardo Dahis](https://www.ricardodahis.com/papers/Dahis_Advice_Research.pdf)
 
-### Writing
+### Writing/Journal submission
 - [How to write an economics paper](https://twitter.com/DaveEvansPhD/status/953615260392583168)
 - [How to survive in the publishing game? Tips for young economists](https://twitter.com/EAYEconomists/status/904987846670417920)
 - [CALTECH RULES FOR WRITING PAPERS: HOW TO STRUCTURE YOUR PAPER AND WRITE AN INTRODUCTION](https://web.stanford.edu/group/mcnollgast/cgi-bin/wordpress/wp-content/uploads/2013/10/CALTECH.RUL_..pdf)
@@ -206,6 +206,7 @@
 - [A Better Lit Review Workflow by Shyam Raman](https://twitter.com/shyamkraman/status/1497080453513105409?s=20&t=hsVJtxhNGF6eN-Hi9nlOTQ)
 - [Journals with short paper options where economists might publish](https://docs.google.com/spreadsheets/d/19eOOIIIRitfCOcsFbGHQseiVSg35sNyxATCIcE-G5h0/edit#gid=0)
 - [Writing Tips for Economics Research Papers – 2021-2022 Edition](https://www.iza.org/publications/dp/15057/writing-tips-for-economics-research-papers-2021-2022-edition)
+- [Journal Turnaround Times](https://jcsuarez.shinyapps.io/journal_turnaround_app/): "This app was built using data on the distribution of turnaround times for different journals in economics and finance (See "Data Sources" for more details). The Conditional Distributions tab allows you to calculate the likelihood of receiving a decision conditional on the amount of time you've waited."
 
 ### Lecture Notes
 - [General Equilibrium](https://web.stanford.edu/~jdlevin/Econ%20202/General%20Equilibrium.pdf)
@@ -325,6 +326,7 @@
 - [A list of numpy resources by Navigating ML](https://michhar.github.io/navigating-ml/python/numpy/?utm_content=buffer0f100&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [The Definitive Guide to Python import Statements by Chris Yeh](https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html): Detailed instructions of how to use `import` when you make a module (`.py` file) or a package
 - [geospatial package](https://github.com/giswqs/geospatial): "A Python package for installing commonly used packages for geospatial analysis and data visualization with only one command"
+- [simpledmx package](https://github.com/dkgaraujo/simpledmx): "simpledmx is a minimalistic Python package experience with SDMX that fetches all data from sources defined by the user."
 
 ### Julia
 - [Parallel Computing and Scientific Machine Learning](https://github.com/mitmath/18337): The lecture note of [Optimizing Serial Code](https://mitmath.github.io/18337/lecture2/optimizing) is a must-read!
