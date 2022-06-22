@@ -94,10 +94,10 @@
 - [開発経済学における教育開発分野の実証研究から学ぶ (丸山隆央 さん)](https://sites.google.com/view/tmaru-dev-economics/%E3%83%9B%E3%83%BC%E3%83%A0?authuser=0)
 - [大学院奨学金の全額返還免除をゲットするための9つのコツ](https://nothing-without-poison.com/hack2/)
 
-### Twitter でみつけたごはん屋さん
+### Twitter でみつけたごはん屋さん/レシピ
 - いなかむら @ 小岩: タイ料理
 - Jollof Kitchen @ 名古屋: ガンビア料理
-- 
+- [鶏チャーシュー](https://twitter.com/syunkon0507/status/1488776882414034950?s=20&t=iNxFzWq5HBCucBafZApr3g)
 
 
 ### その他のその他
@@ -119,3 +119,4 @@
 - [カルディ: 南蛮海老の味噌汁の素](https://twitter.com/marimandona262/status/1147840013738094592): 今度日本に帰ったら絶対買う。
 - [国際機関から内定を貰える英文カバーレターの書き方](https://note.com/sarthakshiksha/n/n99df3483b26f)
 - [ゆるふわ生物学的生物学オススメ書籍](https://twitter.com/ChannelYurufuwa/status/1377944917549322245)
+- [同性パートナーが緊急入院・手術したときに…](https://twitter.com/nagayasu_shibun/status/1490173610287579140?s=20&t=iNxFzWq5HBCucBafZApr3g)
