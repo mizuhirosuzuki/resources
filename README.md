@@ -386,6 +386,7 @@
 - [List of Data Science/Big Data Resources by chaconnewu](https://github.com/chaconnewu/free-data-science-books): "This list contains free learning resources for data science and big data related concepts, techniques, and applications. "
 - [List of Free Learning Resources In Many Languages](https://github.com/EbookFoundation/free-programming-books)
 - [Open Source Society University](https://github.com/ossu/computer-science): "The OSSU curriculum is a complete education in computer science using online materials."
+- [The fastai book](https://github.com/fastai/fastbook)
 
 ### Natural Language Processing (NLP)
 
