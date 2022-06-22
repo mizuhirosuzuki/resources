@@ -415,6 +415,7 @@
 - [Statistical Rethinking by Richard McElreath](https://github.com/rmcelreath/stat_rethinking_2022)
 - [The Geography of Transport Systems](https://transportgeography.org/)
 - [ECON 2070: A Computer Science Toolbox for Modern Economic Theory (@ Harvard)](http://yannai.gonch.name/scientific/syllabi/2022-econ2070.html)
+- [Grad IO by Chris Conlon](https://chrisconlon.github.io/gradio.html)
 
 ## As a referee
 
