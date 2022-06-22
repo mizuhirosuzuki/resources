@@ -10,6 +10,7 @@
 - [Rで計量経済の回帰分析やるならestimatrパッケージが良さそう。](https://keita43a.hatenablog.com/entry/2019/04/17/232548): 個人的には `lfe::felm` のクラスター標準誤差をいつも使っているのでまだお世話にはなってないけど、使う機会はいずれ出てきそう。`stargazer` の中でいろんな Standard error を見せる方法は面白い！
 - [purrrとbroomで複数の回帰モデルを効率的に管理する](https://dropout009.hatenablog.com/entry/2019/01/02/145038): めっちゃお世話になってます。これでpurrrを勉強したと言っても過言ではない。
 - [RとRStudioのインストール方法の解説](https://yukiyanai.github.io/jp/resources/): Rstudioの便利な設定がとっても便利。
+- [マクロ経済学（学部上級〜大学院初級）](https://sites.google.com/view/aaaacademy/macroeconomics-undergrad-advanced-graduate-introductory?authuser=0): Rを使ったマクロモデルについての講義
 
 ### Python
 - [「Python ゼロからはじめるプログラミング」 (スライド教材)](https://mitani.cs.tsukuba.ac.jp/book_support/python/)
