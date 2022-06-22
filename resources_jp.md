@@ -67,7 +67,7 @@
 - [測度論 / ルベーグ積分](http://yagami12.hatenablog.com/entry/2018/11/04/232957)
 - [東大が無料公開している超良質なPython/Data Science/Cloud教材まとめ](https://digitaldigital.hatenablog.com/entry/2020/07/21/104040)
 
-### 英語・米国関連
+### 英語・留学・米国関連
 - [英語論文の査読表現集](https://staff.aist.go.jp/a.ohta/japanese/study/Review_ex_top.htm)
 - [国際論文連発の研究室が明かす、英作文超ノウハウ。Google翻訳ってスプレッドシートから使えるんだ！](https://www.gizmodo.jp/2017/03/google_translate_spreadsheet.html)
 - [英語の発音と発音記号](https://todai.tv/contents-list/2010-2012FY/english-practice/practice01)
@@ -75,6 +75,7 @@
 - [英語論文を書く上でお世話になっている５つのウェブサイト](https://twitter.com/tonets/status/1010321829502676993)
 - [簡潔で分かりやすい英文を書くためのコツを整理した (KRSK さん)](https://www.krsk-phs.com/entry/writing.clearly)
 - [グリーンカードへの準備 (Twitterスレッド)](https://twitter.com/gomessdegomess/status/1383226925351464960)
+- [XPLANE 海外大学院向け奨学金データベース](https://xplane.jp/fellowships-list/)
 
 ### 研究全般
 - [私の研究おすすめツール（文献管理編） (Takeshi Teshima さん)](https://note.com/takeshi_teshima/n/nd28a6e3dfb05): Zotero + PaperShip + WebDav storage を使った文献管理について解説
