@@ -441,6 +441,7 @@
 ### Fun websites
 - [Semantic Scale Network](https://rosenbusch.shinyapps.io/semantic_net/): "The Semantic Scale Network helps researchers and reviewers in psychological science to detect semantically related scales."
 - [Elemental haiku](https://vis.sciencemag.org/chemhaiku/)
+- [The Periodic Table for Spatial Analysis](https://gisgeography.com/spatial-analysis-periodic-table/)
 - [Data to Art](https://www.data-to-art.com/): "Data to Art is a project made to promote art made from Data."
 - [Matrix Multiplication](http://matrixmultiplication.xyz/?utm_content=bufferc4822&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [OLS Explained Visually](https://setosa.io/ev/ordinary-least-squares-regression/)
