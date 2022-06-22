@@ -388,6 +388,7 @@
 - [Open Source Society University](https://github.com/ossu/computer-science): "The OSSU curriculum is a complete education in computer science using online materials."
 - [The fastai book](https://github.com/fastai/fastbook)
 - [Machine Learning and NLP: Advances and Applications](https://github.com/suhara/mlnlp-isp2020)
+- [Handbook of Graphs and Networks in People Analytics](https://ona-book.org/)
 
 ### Natural Language Processing (NLP)
 
