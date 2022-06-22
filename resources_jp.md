@@ -15,6 +15,8 @@
 ### Python
 - [「Python ゼロからはじめるプログラミング」 (スライド教材)](https://mitani.cs.tsukuba.ac.jp/book_support/python/)
 - [Pythonで学ぶマクロ経済学 (中級＋レベル)](https://py4macro.github.io/)
+- [daaja: 日本語自然言語処理の Data Augmentation ライブラリ](https://github.com/kajyuuen/daaja?ref=pythonawesome.com)
+- [マンガと学ぶデータビジュアライゼーション](https://kakeami.github.io/viz-madb/index.html): "このサイトは，文化庁のメディア芸術データベース・ラボ（MADB Lab）で公開されている四大少年誌（ 週刊少年サンデー， 週刊少年ジャンプ， 週刊少年チャンピオン， 週刊少年マガジン ）のデータを用いて，データビジュアライゼーションの学習を手助けすることを目指しています."
 
 ### Julia
 - [Julia高速チュートリアル](https://github.com/bicycle1885/Julia-Tutorial): Juliaを一から学べる。といってもけっこうadvancedなことまでカバーしている。コード例が豊富。
