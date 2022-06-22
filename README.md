@@ -205,6 +205,7 @@
 - [Publish, Don't Perish: Submitting Research Articles to Refereed Journals](http://www.nacbs.org/archive/nacbs-forum-on-the-making-of-the-working-british-historian/publish-don-t-perish/)
 - [A Better Lit Review Workflow by Shyam Raman](https://twitter.com/shyamkraman/status/1497080453513105409?s=20&t=hsVJtxhNGF6eN-Hi9nlOTQ)
 - [Journals with short paper options where economists might publish](https://docs.google.com/spreadsheets/d/19eOOIIIRitfCOcsFbGHQseiVSg35sNyxATCIcE-G5h0/edit#gid=0)
+- [Writing Tips for Economics Research Papers – 2021-2022 Edition](https://www.iza.org/publications/dp/15057/writing-tips-for-economics-research-papers-2021-2022-edition)
 
 ### Lecture Notes
 - [General Equilibrium](https://web.stanford.edu/~jdlevin/Econ%20202/General%20Equilibrium.pdf)
@@ -462,6 +463,7 @@
 - [Vyking Ship for international shopping](https://www.vykingship.com/)
 - [Mathcha](https://www.mathcha.io/): "Online mathematics editor: a fast way to write and share mathematics"
 - [An ka taa: Start learning Bambara or Dioula from scratch](https://www.ankataa.com/course)
+- [Teaching and Learning Toolkit: An accessible summary of education evidence](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit)
 
 ### Fun images
 - [The Age of Borders](https://c1.staticflickr.com/5/4596/24556520177_d5a5b6d97a_o.png?ct=t(January_5_20181_5_2018)&mc_cid=2144f3d507&mc_eid=1bb6d0038b)
