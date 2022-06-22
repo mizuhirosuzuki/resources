@@ -107,6 +107,7 @@
 - [Data Visualization with R](https://rkabacoff.github.io/datavis/)
 - [Data visualisation chapter in "R for Data Science"](https://r4ds.had.co.nz/data-visualisation.html)
 - [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/)
+- [Sports Data Analysis and Visualization: Code, data and visuals for storytellers](https://mattwaite.github.io/sports/)
 
 #### Color Palettes in ggplot2 (available color pallets are found [here](https://github.com/EmilHvitfeldt/r-color-palettes) and most of the color palettes are available through [paletteer](https://github.com/EmilHvitfeldt/paletteer))
 - [efg’s R Notes: RColorBrewer Package](https://earlglynn.github.io/RNotes/package/RColorBrewer/index.html)
@@ -169,6 +170,7 @@
 - [“What It Takes to Get Tenure” – Perceptions and Experiences of AAEA Members](https://www.choicesmagazine.org/choices-magazine/submitted-articles/what-it-takes-to-get-tenure--perceptions-and-experiences-of-aaea-members)
 - [Guide to the European Job Market - David Schindler](http://david-schindler.de/guide-to-the-european-job-market/)
 - [Questions at first round interviews by Natalia Emanuel](https://twitter.com/NataliaHEmanuel/status/1471932685912313859?s=20&t=XO3hp37T5dUngtBxB8cjsw): (she also has a nice thread about what to expect for first round interviews [here](https://twitter.com/NataliaHEmanuel/status/1468596059375083527?s=20&t=XO3hp37T5dUngtBxB8cjsw))
+- [Twitter thread by Sarah Jacobson on a panel on the job market at AEASMPC](https://twitter.com/SarahJacobsonEc/status/1538166914387697667?s=20&t=hsVJtxhNGF6eN-Hi9nlOTQ)
 - [Getting Your Dream Job in Earth Observation](https://mapscaping.com/podcast/getting-your-dream-job-in-earth-observation/)
 
 ### PhD application
