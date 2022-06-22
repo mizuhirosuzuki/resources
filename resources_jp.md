@@ -33,6 +33,8 @@
 - [機械学習のオススメ情報収集術](https://note.com/csstudyabroad/n/nbd2f272dffca)
 - [「データ分析のための統計学入門」("OpenIntro Statistics, 4th Edition" by D.Diez, M.Cetinkaya-Rundel and C.Barr の和訳)](http://www.kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf)
 - [Gitでやらかした時に使える19個の奥義](https://qiita.com/muran001/items/dea2bbbaea1260098051)
+- [事業評価における衛星・GISデータ活用 (JICA)](https://www.jica.go.jp/activities/evaluation/gis/index.html)
+- [データサイエンス・オンライン講座「誰でも使える統計オープンデータ」](https://gacco.org/stat-japan3/)
 
 ## データ
 
@@ -85,6 +87,7 @@
 - [私の研究おすすめツール（文献管理編） (Takeshi Teshima さん)](https://note.com/takeshi_teshima/n/nd28a6e3dfb05): Zotero + PaperShip + WebDav storage を使った文献管理について解説
 - [研究上のtipsあれこれ (Keisuke Takano さん)](https://sites.google.com/site/s1211270url/regscitips)
 - [開発経済学における教育開発分野の実証研究から学ぶ (丸山隆央 さん)](https://sites.google.com/view/tmaru-dev-economics/%E3%83%9B%E3%83%BC%E3%83%A0?authuser=0)
+- [大学院奨学金の全額返還免除をゲットするための9つのコツ](https://nothing-without-poison.com/hack2/)
 
 ### Twitter でみつけたごはん屋さん
 - いなかむら @ 小岩: タイ料理
