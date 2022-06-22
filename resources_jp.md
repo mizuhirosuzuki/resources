@@ -120,3 +120,4 @@
 - [国際機関から内定を貰える英文カバーレターの書き方](https://note.com/sarthakshiksha/n/n99df3483b26f)
 - [ゆるふわ生物学的生物学オススメ書籍](https://twitter.com/ChannelYurufuwa/status/1377944917549322245)
 - [同性パートナーが緊急入院・手術したときに…](https://twitter.com/nagayasu_shibun/status/1490173610287579140?s=20&t=iNxFzWq5HBCucBafZApr3g)
+- [在米育児おすすめ品](https://twitter.com/kiko_inhawaii/status/1488323552839307264)
