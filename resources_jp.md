@@ -13,6 +13,7 @@
 
 ### Python
 - [「Python ゼロからはじめるプログラミング」 (スライド教材)](https://mitani.cs.tsukuba.ac.jp/book_support/python/)
+- [Pythonで学ぶマクロ経済学 (中級＋レベル)](https://py4macro.github.io/)
 
 ### Julia
 - [Julia高速チュートリアル](https://github.com/bicycle1885/Julia-Tutorial): Juliaを一から学べる。といってもけっこうadvancedなことまでカバーしている。コード例が豊富。
