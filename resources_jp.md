@@ -11,6 +11,9 @@
 - [purrrとbroomで複数の回帰モデルを効率的に管理する](https://dropout009.hatenablog.com/entry/2019/01/02/145038): めっちゃお世話になってます。これでpurrrを勉強したと言っても過言ではない。
 - [RとRStudioのインストール方法の解説](https://yukiyanai.github.io/jp/resources/): Rstudioの便利な設定がとっても便利。
 
+### Python
+- [「Python ゼロからはじめるプログラミング」 (スライド教材)](https://mitani.cs.tsukuba.ac.jp/book_support/python/)
+
 ### Julia
 - [Julia高速チュートリアル](https://github.com/bicycle1885/Julia-Tutorial): Juliaを一から学べる。といってもけっこうadvancedなことまでカバーしている。コード例が豊富。
 - [最新Juliaチュートリアル](https://nbviewer.jupyter.org/github/bicycle1885/JuliaTokyo7/blob/master/%E6%9C%80%E6%96%B0Julia%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB.ipynb): これもJuliaを一から学べるサイト。[Julia高速チュートリアル](https://github.com/bicycle1885/Julia-Tutorial)よりやや概念的かなという印象。
