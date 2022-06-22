@@ -52,6 +52,7 @@
 - [TheDiscreteChoiceDataBank](https://github.com/alvarogutyerrez/TheDiscreteChoiceDataBank)
 - [NBER-CES Manufacturing Industry Database](https://www.nber.org/research/data/nber-ces-manufacturing-industry-database)
 - [Yale Climate Opinion Maps](https://climatecommunication.yale.edu/visualizations-data/ycom-us/)
+- [Comparative Panel File: Harmonizing Comparative Lifecourse Data](https://www.cpfdata.com/)
 
 ### Not-so-econ data
 
@@ -429,6 +430,7 @@
 - [ECON 2070: A Computer Science Toolbox for Modern Economic Theory (@ Harvard)](http://yannai.gonch.name/scientific/syllabi/2022-econ2070.html)
 - [Grad IO by Chris Conlon](https://chrisconlon.github.io/gradio.html)
 - [CS 224: Advanced Algorithms](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html)
+- [An Introduction to Development Economics With a Focus on Data - (University of Chicago - ECON 15510 - Spring 2021)](https://rachel-glennerster.squarespace.com/course-details)
 
 ## As a referee
 
