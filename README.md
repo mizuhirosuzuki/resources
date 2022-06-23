@@ -320,6 +320,7 @@
 - [Rcpp for everyone](https://teuder.github.io/rcpp4everyone_en/)
 - [Intro to Network Analysis in R](https://dshizuka.github.io/networkanalysis/index.html)
 - [Web scraping in R](https://www.scrapingdog.com/blog/web-scraping-r/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_376)
+- [Downloading municipality-level data from eStats](https://github.com/yhoriuchi/eStats): "This repository includes a sample R script to download municipality-level data from e-Stat: Portal Site of Official Statitics of Japan. You should first register at https://www.e-stat.go.jp/api/ to get your appId."
 
 ### Python
 - [Style Guide for Python](https://www.python.org/dev/peps/pep-0008/)
