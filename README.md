@@ -488,6 +488,7 @@
 - [Mathcha](https://www.mathcha.io/): "Online mathematics editor: a fast way to write and share mathematics"
 - [An ka taa: Start learning Bambara or Dioula from scratch](https://www.ankataa.com/course)
 - [Teaching and Learning Toolkit: An accessible summary of education evidence](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit)
+- [Studies about how online teaching reduces learning](https://twitter.com/DurRobert/status/1477617054572232707?s=20&t=FcW7jVb_f27DFkjPpMae6Q)
 
 ### Fun images
 - [The Age of Borders](https://c1.staticflickr.com/5/4596/24556520177_d5a5b6d97a_o.png?ct=t(January_5_20181_5_2018)&mc_cid=2144f3d507&mc_eid=1bb6d0038b)
