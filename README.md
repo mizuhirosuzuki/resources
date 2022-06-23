@@ -175,15 +175,14 @@
 ### Presentation
 - [How to Give an Applied Micro Talk by Jesse Shapiro](https://www.brown.edu/Research/Shapiro/pdfs/applied_micro_slides.pdf?utm_content=buffer8939b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [Public Speaking for Academic Economists by Rachael Meager](https://www.dropbox.com/s/4h9soo9dpndjtvt/public_speaking_for_academic_economists.pdf?dl=0)
-- [Econ PhDs and the Agricultural and Applied Economics Job Market by Marc Bellemare](http://marcfbellemare.com/wordpress/12652)
 
 ### Job market
-- [A Guide for European Job Market Candidates by EEA](https://www.eeassoc.org/doc/upload/JM_guide_final20180816212942.pdf)
-- [“What It Takes to Get Tenure” – Perceptions and Experiences of AAEA Members](https://www.choicesmagazine.org/choices-magazine/submitted-articles/what-it-takes-to-get-tenure--perceptions-and-experiences-of-aaea-members)
+- [A Guide for European Job Market Candidates by EEA](https://www.europeanjobmarketofeconomists.org/uploads/Job-Market-Guide-EEA-Website-Michela-Carlana-with-EAYE-Interventions.pdf)
+- [Econ PhDs and the Agricultural and Applied Economics Job Market by Marc Bellemare](http://marcfbellemare.com/wordpress/12652)
 - [Guide to the European Job Market - David Schindler](http://david-schindler.de/guide-to-the-european-job-market/)
 - [Questions at first round interviews by Natalia Emanuel](https://twitter.com/NataliaHEmanuel/status/1471932685912313859?s=20&t=XO3hp37T5dUngtBxB8cjsw): (she also has a nice thread about what to expect for first round interviews [here](https://twitter.com/NataliaHEmanuel/status/1468596059375083527?s=20&t=XO3hp37T5dUngtBxB8cjsw))
 - [Twitter thread by Sarah Jacobson on a panel on the job market at AEASMPC](https://twitter.com/SarahJacobsonEc/status/1538166914387697667?s=20&t=hsVJtxhNGF6eN-Hi9nlOTQ)
-- [Getting Your Dream Job in Earth Observation](https://mapscaping.com/podcast/getting-your-dream-job-in-earth-observation/)
+- Scarlet Chen's blogs: [My Journey from Econ PhD to Tech](https://scarlet-chen.medium.com/my-journey-from-econ-phd-to-tech-part-1-interview-prep-networking-d256918410a2) and [Tech Industry Jobs for Econ PhDs](https://scarlet-chen.medium.com/tech-industry-jobs-for-econ-phds-54a276dda80b)
 
 ### PhD application
 - [For the ambitious, prospective PhD student: A Guide](https://economics.com.au/2012/03/27/for-the-ambitious-prospective-phd-student-a-guide/)
@@ -199,6 +198,7 @@
 - ["Best research-related advice I've recieved" by John Holbein (Twitter thread)](https://twitter.com/JohnHolbein1/status/923269279411310593)
 - [Reflections on Grad School in Economics by Nick Hagerty](https://github.com/hagertynw/grad-school-reflections/blob/master/grad_school_reflections.pdf)
 - [The Tenure Process at Research Universities by Petra Todd](http://athena.sas.upenn.edu/petra/csweparticle.pdf)
+- [“What It Takes to Get Tenure” – Perceptions and Experiences of AAEA Members](https://www.choicesmagazine.org/choices-magazine/submitted-articles/what-it-takes-to-get-tenure--perceptions-and-experiences-of-aaea-members)
 - [How to generate ideas by Matt Lowe](https://twitter.com/hmmlowe/status/1281317062149718016)
 - [Academic career advice compiled by James Freedman](https://sites.dartmouth.edu/nyhan/academic-careers/)
 - [Advice for Phd Students in Economics by Chris Roth and David Schindler](https://sites.google.com/view/econgradadvice/)
