@@ -25,7 +25,8 @@
 ### Stata
 - [Development Micro-econometrics Study Group: Code Notes](https://dmeconsg.hatenablog.com/): 「日本語で経済学分析に有用なコードの備忘録を作成しています。」
 
-### 機械学習・データサイエンス
+### 数学・統計・機械学習・データサイエンス
+- [データ分析のための統計学入門 (PDF)](http://www.kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf)
 - [ディープラーニングについて学ぶならこの2冊を読むしかない](https://note.com/sadaaki/n/n7422d038e97f)
 - [深層学習は世界をどのように変えられるのか](https://www.slideshare.net/pfi/ibis2016okanohara-69230358)
 - [PRML演習問題 全問解答](http://prml.yutorihiro.com/)
@@ -87,6 +88,7 @@
 - [グリーンカードへの準備 (Twitterスレッド)](https://twitter.com/gomessdegomess/status/1383226925351464960)
 - [XPLANE 海外大学院向け奨学金データベース](https://xplane.jp/fellowships-list/)
 - [大学院留学奨学金備忘録](https://mosh-shu.hatenablog.com/entry/2022/02/14/114509)
+- [UTOKYO ENGLISH ACADEMIA](https://www.he.u-tokyo.ac.jp/englishacademia/)
 
 ### 研究全般
 - [私の研究おすすめツール（文献管理編） (Takeshi Teshima さん)](https://note.com/takeshi_teshima/n/nd28a6e3dfb05): Zotero + PaperShip + WebDav storage を使った文献管理について解説
@@ -123,3 +125,4 @@
 - [同性パートナーが緊急入院・手術したときに…](https://twitter.com/nagayasu_shibun/status/1490173610287579140?s=20&t=iNxFzWq5HBCucBafZApr3g)
 - [在米育児おすすめ品](https://twitter.com/kiko_inhawaii/status/1488323552839307264)
 - [「3本99円って安すぎ」長ネギの値段が下落し農家が悲鳴](https://news.livedoor.com/article/detail/21593317/): 豊作貧乏のはなし
+- [古地図コレレクション](https://kochizu.gsi.go.jp/)
