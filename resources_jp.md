@@ -93,6 +93,7 @@
 - [研究上のtipsあれこれ (Keisuke Takano さん)](https://sites.google.com/site/s1211270url/regscitips)
 - [開発経済学における教育開発分野の実証研究から学ぶ (丸山隆央 さん)](https://sites.google.com/view/tmaru-dev-economics/%E3%83%9B%E3%83%BC%E3%83%A0?authuser=0)
 - [大学院奨学金の全額返還免除をゲットするための9つのコツ](https://nothing-without-poison.com/hack2/)
+- [学振関連書類を公開します。](https://babibubebobobo.hatenadiary.jp/entry/2022/01/31/232923)
 
 ### Twitter でみつけたごはん屋さん/レシピ
 - いなかむら @ 小岩: タイ料理
