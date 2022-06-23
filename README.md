@@ -187,6 +187,10 @@
 - [Informational discussions @ EconJobMarket](https://econjobmarket.org/videos)
 - [Panel on Non-Academic Development Economics Research Jobs](https://leahbevis.com/panel-on-non-academic-development-economics-research/)
 - [What I learned from my job market experience](http://papers.okuyamayoko.com/2021-09-29-WomEN-share-YokoOkuyama.pdf) by [Yoko Okuyama](https://www.okuyamayoko.com/)
+- [Job Market Resources by Johannes Pfeifer](https://sites.google.com/site/pfeiferecon/job-market-resources)
+- [Economics Job Market Resources by Jason Blevins](https://jblevins.org/notes/job-market)
+- [A GUIDE AND ADVICE FOR ECONOMISTS ON THE U.S. JUNIOR ACADEMIC JOB MARKET 2018-2019 Edition](https://www.aeaweb.org/content/file?id=869)
+- [Writing advice for job market candidates by Claudia Sahm](https://macromomblog.com/2019/09/29/we-need-to-talk-more/)
 
 ### PhD application
 - [For the ambitious, prospective PhD student: A Guide](https://economics.com.au/2012/03/27/for-the-ambitious-prospective-phd-student-a-guide/)
