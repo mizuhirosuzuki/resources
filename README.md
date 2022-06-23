@@ -53,6 +53,7 @@
 - [NBER-CES Manufacturing Industry Database](https://www.nber.org/research/data/nber-ces-manufacturing-industry-database)
 - [Yale Climate Opinion Maps](https://climatecommunication.yale.edu/visualizations-data/ycom-us/)
 - [Comparative Panel File: Harmonizing Comparative Lifecourse Data](https://www.cpfdata.com/)
+- [Datasets by Brett Hollenbeck](https://bretthollenbeck.com/data/): Texas hotel industry tax receipts data (2000-2015), Texas hotel online reviews full text data, Washington cannabis industry data, Amazon fake reviews data
 
 ### Not-so-econ data
 
