@@ -65,6 +65,7 @@
 - [Massachusetts Bay Transporation Authority Gated Station Entries](https://mbta-massdot.opendata.arcgis.com/datasets/001c177f07594e7c99f193dde32284c9_0/data?page=773046)
 - [Appointment wait time data for primary & specialty care in veterans health administration facilities vs. community medical centers](https://www.sciencedirect.com/science/article/pii/S2352340921004182?via%3Dihub#fig0001)
 - [INDOOR AIR QUALITY (IAQ) SENSOR DASHBOARD](https://www.bostonpublicschools.org/Page/8810)
+- [NIGHTINGALE OPEN SCIENCE](https://www.nightingalescience.org/): "Our secure, open data hub brings together health systems and research communities from across the world, enabling researchers to push the boundaries of medical science."
 
 ## Visualization
 
@@ -439,6 +440,7 @@
 - [CS 224: Advanced Algorithms](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html)
 - [An Introduction to Development Economics With a Focus on Data - (University of Chicago - ECON 15510 - Spring 2021)](https://rachel-glennerster.squarespace.com/course-details)
 - [Foundations of Machine Learning](https://maxkasy.github.io/home/ML_Oxford_2022/)
+- [ECON 747 - The Macroeconomics of Imperfect Capital Markets](http://econweb.umd.edu/~drechsel/teaching/index.htm)
 
 ## As a referee
 
