@@ -71,12 +71,13 @@
 ### プレゼン
 - [アカデミック・プレゼンテーションの（やや長い）コツ](http://keigomi29.hatenablog.com/entry/2017/10/27/174505)
 
-### 講義ノート
+### 講義ノート・講義
 - [数理マルクス経済学: 講義ノート](https://www.kitakyu-u.ac.jp/economy/study/pdf/2014/2015_03.pdf)
 - [力学1](http://www.cp.cmc.osaka-u.ac.jp/~kikuchi/kougi/mechanics1/IntroductoryMechanics.pdf)
 - [解析学Ｉ](https://www1.doshisha.ac.jp/~kmizoha/analysis1/index.html)
 - [測度論 / ルベーグ積分](http://yagami12.hatenablog.com/entry/2018/11/04/232957)
 - [東大が無料公開している超良質なPython/Data Science/Cloud教材まとめ](https://digitaldigital.hatenablog.com/entry/2020/07/21/104040)
+- [機械学習 (筑波大学)](https://ocw.tsukuba.ac.jp/course/systeminformation/machine_learning/)
 
 ### 英語・留学・米国関連
 - [英語論文の査読表現集](https://staff.aist.go.jp/a.ohta/japanese/study/Review_ex_top.htm)
@@ -96,6 +97,7 @@
 - [開発経済学における教育開発分野の実証研究から学ぶ (丸山隆央 さん)](https://sites.google.com/view/tmaru-dev-economics/%E3%83%9B%E3%83%BC%E3%83%A0?authuser=0)
 - [大学院奨学金の全額返還免除をゲットするための9つのコツ](https://nothing-without-poison.com/hack2/)
 - [学振関連書類を公開します。](https://babibubebobobo.hatenadiary.jp/entry/2022/01/31/232923)
+- [経済学の実証論文執筆での回帰式・回帰結果説明などチェックリスト](https://mewing-leader-f29.notion.site/8800266032c54741a3d6b4659a6f0669)
 
 ### Twitter でみつけたごはん屋さん/レシピ
 - いなかむら @ 小岩: タイ料理
