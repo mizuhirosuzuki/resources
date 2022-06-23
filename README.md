@@ -54,6 +54,7 @@
 - [Yale Climate Opinion Maps](https://climatecommunication.yale.edu/visualizations-data/ycom-us/)
 - [Comparative Panel File: Harmonizing Comparative Lifecourse Data](https://www.cpfdata.com/)
 - [Datasets by Brett Hollenbeck](https://bretthollenbeck.com/data/): Texas hotel industry tax receipts data (2000-2015), Texas hotel online reviews full text data, Washington cannabis industry data, Amazon fake reviews data
+- [CMS Hospital Cost Report (HCRIS) Data 1996-2021](https://github.com/asacarny/hospital-cost-reports)
 
 ### Not-so-econ data
 
@@ -63,6 +64,7 @@
 - [Federal Sentencing Statistics by geography](https://www.ussc.gov/research/data-reports/geography)
 - [Massachusetts Bay Transporation Authority Gated Station Entries](https://mbta-massdot.opendata.arcgis.com/datasets/001c177f07594e7c99f193dde32284c9_0/data?page=773046)
 - [Appointment wait time data for primary & specialty care in veterans health administration facilities vs. community medical centers](https://www.sciencedirect.com/science/article/pii/S2352340921004182?via%3Dihub#fig0001)
+- [INDOOR AIR QUALITY (IAQ) SENSOR DASHBOARD](https://www.bostonpublicschools.org/Page/8810)
 
 ## Visualization
 
@@ -214,6 +216,7 @@
 ### Lecture Notes
 - [General Equilibrium](https://web.stanford.edu/~jdlevin/Econ%20202/General%20Equilibrium.pdf)
 - [CREPE Lecture Series: Mini course on child development and human capital production functions](http://www.crepe.e.u-tokyo.ac.jp/events/event20180306-8.html)
+- [MATHEMATICAL METHODS FOR MACROECONOMICS](https://www.pascalmichaillat.org/t3.html)
 
 ### Others
 - [Real-world economics by AEA](https://www.aeaweb.org/resources/teachers/economics-concepts-examples-in-research)
