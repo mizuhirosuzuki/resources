@@ -66,6 +66,8 @@
 - [Appointment wait time data for primary & specialty care in veterans health administration facilities vs. community medical centers](https://www.sciencedirect.com/science/article/pii/S2352340921004182?via%3Dihub#fig0001)
 - [INDOOR AIR QUALITY (IAQ) SENSOR DASHBOARD](https://www.bostonpublicschools.org/Page/8810)
 - [NIGHTINGALE OPEN SCIENCE](https://www.nightingalescience.org/): "Our secure, open data hub brings together health systems and research communities from across the world, enabling researchers to push the boundaries of medical science."
+- [Submarine Cable Map](https://www.submarinecablemap.com/)
+- [The American Presidency Project](https://www.presidency.ucsb.edu/): "Non-profit and non-partisan, the APP is the source of presidential documents on the internet.  We are hosted at the University of California, Santa Barbara."
 
 ## Visualization
 
@@ -305,6 +307,7 @@
 - Rtweet: Twitter API in R, nice introduction is [here](https://www.earthdatascience.org/courses/earth-analytics/get-data-using-apis/use-twitter-api-r/)
 - [huxreg](https://cran.r-project.org/web/packages/huxtable/vignettes/huxreg.html): function in a package `huxreg` to make a table of regressions
 - [collapse](https://sebkrantz.github.io/collapse/): "`collapse` is a C/C++ based package for data transformation and statistical computing in R." Grant McDermott explains how you can achieve a major speedup by using `collapse` [here](https://twitter.com/grant_mcdermott/status/1493400952878952448).
+- [genderBR](https://github.com/meirelesff/genderBR): "genderBR predicts gender from Brazilian first names using data from the Instituto Brasileiro de Geografia e Estatistica’s 2010 Census."
 
 #### Other tips
 - [stargazer cheatsheet](https://www.jakeruss.com/cheatsheets/stargazer/)
@@ -441,6 +444,8 @@
 - [An Introduction to Development Economics With a Focus on Data - (University of Chicago - ECON 15510 - Spring 2021)](https://rachel-glennerster.squarespace.com/course-details)
 - [Foundations of Machine Learning](https://maxkasy.github.io/home/ML_Oxford_2022/)
 - [ECON 747 - The Macroeconomics of Imperfect Capital Markets](http://econweb.umd.edu/~drechsel/teaching/index.htm)
+- [Evidence-Informed & Data-Driven Public Policy](http://moritz-marbach.com/download/Marbach_Evidence.pdf)
+- [Introduction to Economic Growth by Alexander Yarkin](https://www.piie.com/events/combating-inequality-rethinking-policies-reduce-inequality-advanced-economies)
 
 ## As a referee
 
