@@ -57,6 +57,7 @@
 - [Datasets by Brett Hollenbeck](https://bretthollenbeck.com/data/): Texas hotel industry tax receipts data (2000-2015), Texas hotel online reviews full text data, Washington cannabis industry data, Amazon fake reviews data
 - [CMS Hospital Cost Report (HCRIS) Data 1996-2021](https://github.com/asacarny/hospital-cost-reports)
 - [Indeed Hiring Lab Data Repository](https://github.com/hiring-lab/job_postings_tracker): "This GitHub repo is intended to serve as a space to host various regularly-updated data series to help economists, journalists, and other interested parties better understand the labor market conditions in their countries."
+- [RAND State Firearm Law Database](https://www.rand.org/pubs/tools/TLA243-2.html)
 
 ### Not-so-econ data
 
@@ -293,6 +294,7 @@
 - [R packages](http://r-pkgs.had.co.nz/)
 - [R for Data Science](https://r4ds.had.co.nz/)
 - [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
+- [Computational Thinking for Social Scientists](https://jaeyk.github.io/comp_thinking_social_science/)
 
 #### Useful packages
 - [crosswalkr: Rename and Encode Data Frames Using External Crosswalk Files](https://cran.r-project.org/web/packages/crosswalkr/index.html)
@@ -496,6 +498,8 @@
 - [Studies about how online teaching reduces learning](https://twitter.com/DurRobert/status/1477617054572232707?s=20&t=FcW7jVb_f27DFkjPpMae6Q)
 - [FDR Pre-Doctoral Training Curriculum](https://github.com/esoclabprinceton/ESOC-Predoc-Training): "This 10-week training program is designed to prepare incoming pre-doctoral research fellows at the Princeton Empirical Studies of Conflict (ESOC) lab with the skills needed to support faculty research projects within ESOC, SPIA, and associated departments."
 - [Structural Behavioral Economics with Python and Julia](https://github.com/snunnari/structural_behavioral_economics)
+- [Ariel Rubinstein's Atlas of Cafes where one can think](https://cafeatlas.org/)
+- [How to read a lot of books by David Evans](https://davidevans.blog/2018/12/31/how-to-read-a-lot-of-books/)
 
 ### Fun images
 - [The Age of Borders](https://c1.staticflickr.com/5/4596/24556520177_d5a5b6d97a_o.png?ct=t(January_5_20181_5_2018)&mc_cid=2144f3d507&mc_eid=1bb6d0038b)
