@@ -105,6 +105,7 @@
 - いなかむら @ 小岩: タイ料理
 - Jollof Kitchen @ 名古屋: ガンビア料理
 - [鶏チャーシュー](https://twitter.com/syunkon0507/status/1488776882414034950?s=20&t=iNxFzWq5HBCucBafZApr3g)
+- 銀座の凛
 
 
 ### その他のその他
