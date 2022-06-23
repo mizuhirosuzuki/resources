@@ -220,6 +220,7 @@
 - [General Equilibrium](https://web.stanford.edu/~jdlevin/Econ%20202/General%20Equilibrium.pdf)
 - [CREPE Lecture Series: Mini course on child development and human capital production functions](http://www.crepe.e.u-tokyo.ac.jp/events/event20180306-8.html)
 - [MATHEMATICAL METHODS FOR MACROECONOMICS](https://www.pascalmichaillat.org/t3.html)
+- [Applied Microeconomics C (Theoretical IO)](https://drive.google.com/file/d/1-hWp7UkzOzHdtCHlYmx1iJHTAXcIl_Xb/view) by [Susumu Sato](https://sites.google.com/site/econsusumusato/home)
 
 ### Others
 - [Real-world economics by AEA](https://www.aeaweb.org/resources/teachers/economics-concepts-examples-in-research)
