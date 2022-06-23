@@ -449,6 +449,7 @@
 - [ECON 747 - The Macroeconomics of Imperfect Capital Markets](http://econweb.umd.edu/~drechsel/teaching/index.htm)
 - [Evidence-Informed & Data-Driven Public Policy](http://moritz-marbach.com/download/Marbach_Evidence.pdf)
 - [Introduction to Economic Growth by Alexander Yarkin](https://www.piie.com/events/combating-inequality-rethinking-policies-reduce-inequality-advanced-economies)
+- [DS-GA 1008: Deep learning](https://atcold.github.io/pytorch-Deep-Learning/)
 
 ## As a referee
 
