@@ -184,6 +184,9 @@
 - [Twitter thread by Sarah Jacobson on a panel on the job market at AEASMPC](https://twitter.com/SarahJacobsonEc/status/1538166914387697667?s=20&t=hsVJtxhNGF6eN-Hi9nlOTQ)
 - Scarlet Chen's blogs: [My Journey from Econ PhD to Tech](https://scarlet-chen.medium.com/my-journey-from-econ-phd-to-tech-part-1-interview-prep-networking-d256918410a2) and [Tech Industry Jobs for Econ PhDs](https://scarlet-chen.medium.com/tech-industry-jobs-for-econ-phds-54a276dda80b)
 - [A blog about non-academic careers for PhD economists by Ana Moura](https://theoutsideoption.wordpress.com/)
+- [Informational discussions @ EconJobMarket](https://econjobmarket.org/videos)
+- [Panel on Non-Academic Development Economics Research Jobs](https://leahbevis.com/panel-on-non-academic-development-economics-research/)
+- [What I learned from my job market experience](http://papers.okuyamayoko.com/2021-09-29-WomEN-share-YokoOkuyama.pdf) by [Yoko Okuyama](https://www.okuyamayoko.com/)
 
 ### PhD application
 - [For the ambitious, prospective PhD student: A Guide](https://economics.com.au/2012/03/27/for-the-ambitious-prospective-phd-student-a-guide/)
@@ -204,6 +207,7 @@
 - [Academic career advice compiled by James Freedman](https://sites.dartmouth.edu/nyhan/academic-careers/)
 - [Advice for Phd Students in Economics by Chris Roth and David Schindler](https://sites.google.com/view/econgradadvice/)
 - [Advice for Academic Research by Ricardo Dahis](https://www.ricardodahis.com/papers/Dahis_Advice_Research.pdf)
+- [Tips for meeting seminar speakers (Twitter thread by Josh Dean)](https://twitter.com/josh_t_dean/status/1435979269977559041?s=20&t=tWYqhd16G5syvlrytJP6hg)
 
 ### Writing/Journal submission
 - [How to write an economics paper](https://twitter.com/DaveEvansPhD/status/953615260392583168)
@@ -236,6 +240,7 @@
 - [A Beginner's Guide to #EconTwitter](http://matt-clancy.com/a-beginners-guide-to-econtwitter-preliminary-version/)
 - [SQ3R method](https://www.weber.edu/wsuimages/vetsupwardbound/StudySkills/SQ3Rmethod.pdf)
 - [Global Gender History](https://www.draliceevans.com/gender-history-books)
+- [Consulting and Freelancing in Academia by Nick Huntington-Klein](https://nickch-k.github.io/SomeThoughts/posts/2021-11-19-consulting-and-freelancing-in-academia/)
 
 ## Programming / Coding
 
@@ -460,6 +465,7 @@
 ## As a referee
 
 - [Mistakes Reviewers Make](https://sites.umiacs.umd.edu/elm/2016/02/01/mistakes-reviewers-make/)
+- [Guidelines for Referees by Econometrica](https://www.econometricsociety.org/publications/econometrica/browse/guidelines-referees)
 
 ## Causal Inference
 
