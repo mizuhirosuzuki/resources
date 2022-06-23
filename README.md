@@ -438,6 +438,7 @@
 - [Grad IO by Chris Conlon](https://chrisconlon.github.io/gradio.html)
 - [CS 224: Advanced Algorithms](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html)
 - [An Introduction to Development Economics With a Focus on Data - (University of Chicago - ECON 15510 - Spring 2021)](https://rachel-glennerster.squarespace.com/course-details)
+- [Foundations of Machine Learning](https://maxkasy.github.io/home/ML_Oxford_2022/)
 
 ## As a referee
 
