@@ -183,6 +183,7 @@
 - [Questions at first round interviews by Natalia Emanuel](https://twitter.com/NataliaHEmanuel/status/1471932685912313859?s=20&t=XO3hp37T5dUngtBxB8cjsw): (she also has a nice thread about what to expect for first round interviews [here](https://twitter.com/NataliaHEmanuel/status/1468596059375083527?s=20&t=XO3hp37T5dUngtBxB8cjsw))
 - [Twitter thread by Sarah Jacobson on a panel on the job market at AEASMPC](https://twitter.com/SarahJacobsonEc/status/1538166914387697667?s=20&t=hsVJtxhNGF6eN-Hi9nlOTQ)
 - Scarlet Chen's blogs: [My Journey from Econ PhD to Tech](https://scarlet-chen.medium.com/my-journey-from-econ-phd-to-tech-part-1-interview-prep-networking-d256918410a2) and [Tech Industry Jobs for Econ PhDs](https://scarlet-chen.medium.com/tech-industry-jobs-for-econ-phds-54a276dda80b)
+- [A blog about non-academic careers for PhD economists by Ana Moura](https://theoutsideoption.wordpress.com/)
 
 ### PhD application
 - [For the ambitious, prospective PhD student: A Guide](https://economics.com.au/2012/03/27/for-the-ambitious-prospective-phd-student-a-guide/)
