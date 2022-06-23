@@ -276,6 +276,7 @@
 - [A bunch of Stata tips for handling large datasets by Jan Kabátek](https://twitter.com/JanKabatek/status/1303209197576663040)
 - [Stata style guide by Sean Higgins](https://github.com/skhiggins/Stata_guide)
 - [Regular expressions (regex) in Stata](https://medium.com/the-stata-guide/regular-expressions-regex-in-stata-6e5c200ef27c)
+- [The Stata Frames Guide](https://medium.com/the-stata-guide/the-stata-frames-guide-1149b50864e3): [Medium articles by Asjad Naqvi](https://medium.com/@asjadnaqvi) are all great for Stata users
 
 ### From Stata to R...
 - [Translating Stata to R](https://stata2r.github.io/)
