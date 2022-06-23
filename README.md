@@ -56,6 +56,7 @@
 - [Comparative Panel File: Harmonizing Comparative Lifecourse Data](https://www.cpfdata.com/)
 - [Datasets by Brett Hollenbeck](https://bretthollenbeck.com/data/): Texas hotel industry tax receipts data (2000-2015), Texas hotel online reviews full text data, Washington cannabis industry data, Amazon fake reviews data
 - [CMS Hospital Cost Report (HCRIS) Data 1996-2021](https://github.com/asacarny/hospital-cost-reports)
+- [Indeed Hiring Lab Data Repository](https://github.com/hiring-lab/job_postings_tracker): "This GitHub repo is intended to serve as a space to host various regularly-updated data series to help economists, journalists, and other interested parties better understand the labor market conditions in their countries."
 
 ### Not-so-econ data
 
