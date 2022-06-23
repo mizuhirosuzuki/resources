@@ -216,6 +216,7 @@
 - [Journals with short paper options where economists might publish](https://docs.google.com/spreadsheets/d/19eOOIIIRitfCOcsFbGHQseiVSg35sNyxATCIcE-G5h0/edit#gid=0)
 - [Writing Tips for Economics Research Papers – 2021-2022 Edition](https://www.iza.org/publications/dp/15057/writing-tips-for-economics-research-papers-2021-2022-edition)
 - [Journal Turnaround Times](https://jcsuarez.shinyapps.io/journal_turnaround_app/): "This app was built using data on the distribution of turnaround times for different journals in economics and finance (See "Data Sources" for more details). The Conditional Distributions tab allows you to calculate the likelihood of receiving a decision conditional on the amount of time you've waited."
+- [EGAP Writing 1: Academic Essays_2022 Edition (Kyoto University)](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/266627)
 
 ### Lecture Notes
 - [General Equilibrium](https://web.stanford.edu/~jdlevin/Econ%20202/General%20Equilibrium.pdf)
@@ -492,6 +493,7 @@
 - [Teaching and Learning Toolkit: An accessible summary of education evidence](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit)
 - [Studies about how online teaching reduces learning](https://twitter.com/DurRobert/status/1477617054572232707?s=20&t=FcW7jVb_f27DFkjPpMae6Q)
 - [FDR Pre-Doctoral Training Curriculum](https://github.com/esoclabprinceton/ESOC-Predoc-Training): "This 10-week training program is designed to prepare incoming pre-doctoral research fellows at the Princeton Empirical Studies of Conflict (ESOC) lab with the skills needed to support faculty research projects within ESOC, SPIA, and associated departments."
+- [Structural Behavioral Economics with Python and Julia](https://github.com/snunnari/structural_behavioral_economics)
 
 ### Fun images
 - [The Age of Borders](https://c1.staticflickr.com/5/4596/24556520177_d5a5b6d97a_o.png?ct=t(January_5_20181_5_2018)&mc_cid=2144f3d507&mc_eid=1bb6d0038b)
