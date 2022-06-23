@@ -140,6 +140,7 @@
 ### Julia
 
 - [Plots - visualization package](http://docs.juliaplots.org/latest/)
+- [Gadfly](http://gadflyjl.org/stable/)
 
 ### Python
 
