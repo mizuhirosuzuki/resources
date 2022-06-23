@@ -36,6 +36,7 @@
 - [Indian National Family Health Survey (2019-2020) in a single CSV file](https://github.com/pratapvardhan/NFHS-5)
 - [Statistics of the Russian Empire: Digitized Data Tables](https://sites.google.com/a/umn.edu/emalkov/data)
 - [Database for Development Economics Research by Development Economics Lab @Kyoto University](https://sites.google.com/kyoto-u.ac.jp/database4der/development-economics-lab-at-kyoto-university/data-link)
+- [12 Transfer of Power volumes (in one Twitter thread)](https://twitter.com/_merajhasan/status/1477241063119200257)
 
 ### Other more-or-less-econ data
 - [The Stanford Open Policing Project](https://openpolicing.stanford.edu/)
