@@ -179,6 +179,10 @@
 ### Job market
 - [A Guide for European Job Market Candidates by EEA](https://www.europeanjobmarketofeconomists.org/uploads/Job-Market-Guide-EEA-Website-Michela-Carlana-with-EAYE-Interventions.pdf)
 - [Econ PhDs and the Agricultural and Applied Economics Job Market by Marc Bellemare](http://marcfbellemare.com/wordpress/12652)
+  - It may be good to know some differences between econ and ag econ departments:
+    - [On the difference between Agricultural Economics](https://blogs.berkeley.edu/2022/04/20/on-the-difference-between-agricultural-economics/)
+    - [Reflections on Agricultural and Applied Economics](http://marcfbellemare.com/wordpress/12575)
+- [Ag and Applied Econ PhDs on the Economics Job Market by Marc Bellemare](http://marcfbellemare.com/wordpress/13159)
 - [Guide to the European Job Market - David Schindler](http://david-schindler.de/guide-to-the-european-job-market/)
 - [Questions at first round interviews by Natalia Emanuel](https://twitter.com/NataliaHEmanuel/status/1471932685912313859?s=20&t=XO3hp37T5dUngtBxB8cjsw): (she also has a nice thread about what to expect for first round interviews [here](https://twitter.com/NataliaHEmanuel/status/1468596059375083527?s=20&t=XO3hp37T5dUngtBxB8cjsw))
 - [Twitter thread by Sarah Jacobson on a panel on the job market at AEASMPC](https://twitter.com/SarahJacobsonEc/status/1538166914387697667?s=20&t=hsVJtxhNGF6eN-Hi9nlOTQ)
