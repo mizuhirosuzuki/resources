@@ -72,6 +72,7 @@
 
 ### プレゼン
 - [アカデミック・プレゼンテーションの（やや長い）コツ](http://keigomi29.hatenablog.com/entry/2017/10/27/174505)
+- [セミナー報告のためのtips (<特集>大学院で経済学を学ぶ) (清水崇 さん)](https://da.lib.kobe-u.ac.jp/da/kernel/E0041956/?lang=0&mode=0&opkey=R166562732366275&idx=5&chk_schema=30000&cate_schema=30000&cflg=1&codeno=002&fc_val=&chk_st=0&check=00000000000000000000)
 
 ### 講義ノート・講義
 - [数理マルクス経済学: 講義ノート](https://www.kitakyu-u.ac.jp/economy/study/pdf/2014/2015_03.pdf)
@@ -92,6 +93,7 @@
 - [XPLANE 海外大学院向け奨学金データベース](https://xplane.jp/fellowships-list/)
 - [大学院留学奨学金備忘録](https://mosh-shu.hatenablog.com/entry/2022/02/14/114509)
 - [UTOKYO ENGLISH ACADEMIA](https://www.he.u-tokyo.ac.jp/englishacademia/)
+- [経済学PhD留学について (<特集>大学院で経済学を学ぶ) (山﨑潤一 さん)](https://da.lib.kobe-u.ac.jp/da/kernel/E0041959/?lang=0&mode=0&opkey=R166550211836434&idx=39&chk_schema=30000&cate_schema=30000&codeno=&fc_val=&chk_st=20&check=0000000000000000000)
 
 ### 研究全般
 - [私の研究おすすめツール（文献管理編） (Takeshi Teshima さん)](https://note.com/takeshi_teshima/n/nd28a6e3dfb05): Zotero + PaperShip + WebDav storage を使った文献管理について解説
