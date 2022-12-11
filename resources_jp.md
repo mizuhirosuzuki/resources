@@ -95,6 +95,7 @@
 - [UTOKYO ENGLISH ACADEMIA](https://www.he.u-tokyo.ac.jp/englishacademia/)
 - [経済学PhD留学について (<特集>大学院で経済学を学ぶ) (山﨑潤一 さん)](https://da.lib.kobe-u.ac.jp/da/kernel/E0041959/?lang=0&mode=0&opkey=R166550211836434&idx=39&chk_schema=30000&cate_schema=30000&codeno=&fc_val=&chk_st=20&check=0000000000000000000)
 - [推薦状について (脇　雄一郎 さん)](https://ywaki-econ.github.io/referenceletter/)
+- [プロゴノス 人文・社会科学系×海外大学院留学プラットフォーム](https://graduate-study-abroad.com/): 「プロゴノスは、社会科学系で学部卒業後に海外大学院への正規留学を目指す方々への情報提供を目的としたプラットフォームです。」
 
 ### 研究全般
 - [私の研究おすすめツール（文献管理編） (Takeshi Teshima さん)](https://note.com/takeshi_teshima/n/nd28a6e3dfb05): Zotero + PaperShip + WebDav storage を使った文献管理について解説
