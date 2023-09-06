@@ -470,6 +470,7 @@
 - [Introduction to Economic Growth by Alexander Yarkin](https://www.piie.com/events/combating-inequality-rethinking-policies-reduce-inequality-advanced-economies)
 - [DS-GA 1008: Deep learning](https://atcold.github.io/pytorch-Deep-Learning/)
 - [Program Evaluation for Public Service](https://evalf20.classes.andrewheiss.com/)
+- [OpenGeoHub Summer School 2023](https://ogh23.robinlovelace.net/tidy)
 
 ## As a referee
 
