@@ -111,6 +111,7 @@
 - Jollof Kitchen @ 名古屋: ガンビア料理
 - [鶏チャーシュー](https://twitter.com/syunkon0507/status/1488776882414034950?s=20&t=iNxFzWq5HBCucBafZApr3g)
 - 銀座の凛
+- [京大に出張に行ったら行くべきオススメごはん屋さん](https://github.com/YoshihiroMichishita/YoshihiroMichishita.github.io/issues/44)
 
 
 ### その他のその他
