@@ -42,6 +42,7 @@
 - [ミクシィの21新卒技術研修の資料と動画を公開します！](https://mixi-developers.mixi.co.jp/21-technical-training-a0bcdbf9bca0)
 - [プログラミングやソフトウェア開発について、日本語で無料公開されているテキストのまとめページ](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-ja.md)
 - [SEGA社が無料公開している「基礎線形代数講座」](https://drive.google.com/file/d/1vU7BCI1arG_ZyUYkAEvLi1LH1ou0pULu/view)
+- [良いコードとは何か - エンジニア新卒研修 スライド公開](https://note.com/cyberz_cto/n/n26f535d6c575)
 
 ## データ
 
