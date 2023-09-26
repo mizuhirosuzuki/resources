@@ -1,4 +1,4 @@
-## (Probably much better) Resources by others
+## (Probably much better) Curated list of resources by others
 - [Resources by Jennifer Doleac](http://jenniferdoleac.com/resources/)
 - [Resources by Ryan Edwards](http://www.ryanbedwards.com/resources)
 - [Tips 4 Economists by Masayuki Kudamatsu](https://sites.google.com/site/mkudamatsu/tips4economists)
